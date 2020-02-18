@@ -13,6 +13,7 @@
 
 <p>My name is Brittany Burnette and I am an undergraduate student at the University of Miami. This is my first web page!</p>
 
+<img src="octocat.png" alt="cat">
   </body>
   
   </html>
