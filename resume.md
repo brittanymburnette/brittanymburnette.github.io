@@ -58,7 +58,7 @@
 <h4><li>NATIONAL ASSOCIATION OF BLACK JOURNALIST</li></h4>
 <table>
 <tr>
-<th>NABJ Memeber - September 2019-present</th>
+<th>NABJ Member - September 2019-present</th>
 </tr>
 <tr>
 <td>Participate in online discussion groups; and benefit from the expertise of seasoned media professionals through year-round fellowships and workshops.</td>
