@@ -4,7 +4,7 @@
 
 <head>
 <meta charset="utf-8">
-<title>brittany</title>
+<!--<title>brittany</title>-->
   </head>
 
 <body>
