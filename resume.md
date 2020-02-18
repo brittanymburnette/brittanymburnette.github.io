@@ -37,7 +37,7 @@
 
 <h3><em>MY PASSION PROJECTS</em></h3>
 <ul>
-<li><a href=https://www.exchange-for-change.org>"Exchange for change,"</a> a civic engagement project with incarcerated students.</li>
+ <li><a href=https://www.exchange-for-change.org>"Exchange for change,"</a> a civic engagement project with incarcerated students.</li>
 <li><a href=https://thelordsplace.org/what-we-do/supportive-housing/halle-place/>"Halle Place,"</a> a volunteer writing assistant for women who were formerly incarcerated.</li>
 </ul>
 
@@ -46,7 +46,7 @@
 <h4><li>STAFF WRITER</li></h4>
 <table>
 <tr>
-<th>The Miami Hurricane - August 2019-January 2020</th>
+ <th><em>The Miami Hurricane</em> - August 2019-January 2020</th>
 </tr>
 <tr>
 <td>Feature writer of the campus newspaper</td>
