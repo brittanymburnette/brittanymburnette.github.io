@@ -4,7 +4,7 @@
 
 <head>
 <meta charset="utf-8">
-<title>brittany</title>
+<!--<title>brittany</title>-->
   </head>
 
 <body>
@@ -13,6 +13,7 @@
 
 <p>My name is Brittany Burnette and I am an undergraduate student at the University of Miami. This is my first web page!</p>
 
+<img src="octocat.png" alt="octocat">
   </body>
   
   </html>
