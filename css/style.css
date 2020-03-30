@@ -23,5 +23,16 @@ nav ul {
         list-style: none;
         margin: 0;
 }
+.page-wrapper {
+  background:plum
+  padding: 0 175px 0 110px;
+  margin: 0;
+  position: relative;
+}
+
+.intro {
+  min-width: 470px;
+  width: 100%;
+}
   
   
