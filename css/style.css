@@ -15,6 +15,12 @@ h3 {
   }
 #layout {
   display: grid;
+  grid-template-rows: [header-start] 100px [content-start] 400px [footer-start] 100px;
+  grid-template columns: [contact me] 1fr [experience] 200px;
+  grid-template-areas:
+    "header header header"
+    "main main main"
+    "footer footer footer"
 }
 #container {
   display: grid;
