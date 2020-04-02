@@ -23,8 +23,6 @@ h3 {
 }
 #nav {
     width: 180px;
-    list-style-type: none;
-    display: inline;
 }
 #nav .selected {
   font-weight: bold;
