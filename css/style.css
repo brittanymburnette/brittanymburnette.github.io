@@ -6,6 +6,7 @@ body {
   font-size: 16px;
   font-family: 'Raleway', sans-serif;
   color: #222;
+  max-height: 960;
   }
 a {
   display: inline;
@@ -13,7 +14,7 @@ a {
 #header {
   background-color: plum;
   text-align: center;
-  font:Bold;
+  font: Bold;
   font-family: 'Great Vibes', cursive;
   }
 h1 {
