@@ -8,9 +8,6 @@ body {
   color: #222;
   max-height: 960;
   }
-a {
-  display: inline;
-  }
 #header {
   background-color: plum;
   text-align: center;
@@ -39,15 +36,15 @@ h3 {
   border: medium;
   }
 p {
-  background-color: plum;
-  border: 3px solid plum;
+  background-color: thistle;
+  border: 3px solid thistle;
   height: 50px;
   width: 100%;
   }
 a:active {
   color: silver;
   }
-a:visited: plum;
+a:visited: thistle;
   }
 a:hover: pink;
   }
