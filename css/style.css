@@ -17,6 +17,7 @@ a {
   }
 h3 {
   font: Bold, Source Sans Pro;
+  text-shadow: .2em .2em plum;
   }
 #container {
   background-color: white;
