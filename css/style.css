@@ -33,7 +33,11 @@ h3 {
 #footer {
   border: medium;
 }
-
+p {
+  border: 3px solid plum;
+  height: 200px;
+  width: 200px;
+}
 
 
 
