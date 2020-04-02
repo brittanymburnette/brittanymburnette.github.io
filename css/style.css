@@ -10,7 +10,6 @@ body {
 #header {
   background-color: plum;
   text-align: center;
-  display: inline;
   }
 h3 {
   font: Bold, Source Sans Pro;
@@ -22,7 +21,7 @@ h3 {
     width: 180px;
 }
 }
-#nav .ul {
+#nav .li {
   display: inline; 
 }
 
