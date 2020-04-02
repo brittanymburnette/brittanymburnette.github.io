@@ -24,6 +24,9 @@ h3 {
 #nav {
     width: 180px;
 }
+#nav ul {
+  list-style-type: none;
+}
 #nav .selected {
   font-weight: bold;
 }
