@@ -34,6 +34,7 @@ h3 {
   border: medium;
 }
 p {
+  background-color: plum;
   border: 3px solid plum;
   height: 50px;
   width: 100%;
