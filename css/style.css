@@ -19,13 +19,13 @@ h3 {
 }
 #nav {
     width: 180px;
+    display: inline;
+}
 }
 #nav ul {
   list-style: 
 }
-#nav {
-  display: inline;
-}
+
 
 
 
