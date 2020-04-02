@@ -7,12 +7,17 @@ body {
   font-family: sans-serif;
   color: #222;
   }
-header {
+#header {
   background-color: plum;
+  text-align: center;
   }
 h3 {
   font: Bold, Source Sans Pro;
   }
+#container {
+  background-color: grey;
+}
+
 
 
 
