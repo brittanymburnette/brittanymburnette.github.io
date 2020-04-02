@@ -7,10 +7,6 @@ body {
   font-family: sans-serif;
   color: #222;
   }
-a {
-  text-decoration: none;
-  color: plum;
-}
 #header {
   background-color: plum;
   text-align: center;
