@@ -10,6 +10,7 @@ body {
 #header {
   background-color: plum;
   text-align: center;
+  display: inline;
   }
 h3 {
   font: Bold, Source Sans Pro;
