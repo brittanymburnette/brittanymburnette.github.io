@@ -21,7 +21,7 @@ h3 {
   font-family: 'Raleway', sans-serif;
   }
 #container {
-  background-color: white;
+  background-color: thistle;
   }
 #nav {
     width: 180px;
@@ -37,7 +37,7 @@ h3 {
   }
 p {
   background-color: thistle;
-  border: 3px solid thistle;
+  border: 3px solid plum;
   height: 50px;
   width: 100%;
   }
