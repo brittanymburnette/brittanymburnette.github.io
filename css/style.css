@@ -20,6 +20,8 @@ h3 {
 #nav {
     width: 180px;
 }
+#nav .selected {
+  font-weight: bold;
 }
 .nav li {
   display: inline-block; 
