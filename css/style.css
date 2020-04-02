@@ -17,8 +17,7 @@ a {
   }
 h3 {
   color: black;
-  font: Bold, Source Sans Pro;
-  text-shadow: .2em .2em plum;
+  text-shadow: -.3em -.3em silver;
   }
 #container {
   background-color: white;
