@@ -7,6 +7,9 @@ body {
   font-family: sans-serif;
   color: #222;
   }
+a {
+  display: inline;
+}
 #header {
   background-color: plum;
   text-align: center;
