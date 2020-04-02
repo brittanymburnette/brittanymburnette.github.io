@@ -23,9 +23,8 @@ h3 {
 }
 #nav {
     width: 180px;
-}
-#nav ul {
-  list-style-type: none;
+    list-style-type: none;
+    display: inline;
 }
 #nav .selected {
   font-weight: bold;
