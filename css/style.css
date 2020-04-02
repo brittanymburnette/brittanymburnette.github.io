@@ -7,6 +7,10 @@ body {
   font-family: sans-serif;
   color: #222;
   }
+a {
+  text-decoration: none;
+  color: plum;
+}
 #header {
   background-color: plum;
   text-align: center;
@@ -22,6 +26,9 @@ h3 {
     width: 180px;
 }
 
+#nav .selected {
+  font-weight: bold;
+}
 
 
 
