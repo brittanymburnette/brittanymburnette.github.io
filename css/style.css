@@ -21,7 +21,7 @@ h3 {
     width: 180px;
 }
 }
-#nav .li {
+.nav li {
   display: inline-block; 
 }
 
