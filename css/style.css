@@ -9,37 +9,47 @@ body {
   }
 a {
   display: inline;
-}
+  }
 #header {
   background-color: plum;
   text-align: center;
   font:Bold;
   font-family: 'Great Vibes', cursive;
   }
+h1 {
+  font:Bold;
+  }
 h3 {
   font-family: 'Raleway', sans-serif;
   }
 #container {
   background-color: white;
-}
+  }
 #nav {
     width: 180px;
-}
+  }
 #nav ul {
   list-style-type: none;
-}
+  }
 #nav .selected {
   font-weight: bold;
-}
+  }
 #footer {
   border: medium;
-}
+  }
 p {
   background-color: plum;
   border: 3px solid plum;
   height: 50px;
   width: 100%;
-}
+  }
+a:active {
+  color: silver;
+  }
+a:visited: plum;
+  }
+a:hover: pink;
+  }
 
 
 
