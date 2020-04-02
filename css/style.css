@@ -23,15 +23,6 @@ h3 {
 #container {
   background-color: thistle;
   }
-#nav {
-    width: 180px;
-  }
-#nav ul {
-  list-style-type: none;
-  }
-#nav .selected {
-  font-weight: bold;
-  }
 #footer {
   border: medium;
   }
