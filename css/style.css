@@ -40,9 +40,11 @@ p {
 a:active {
   color: silver;
   }
-a:visited: thistle;
+a:visited {
+  color: rosybrown;
   }
-a:hover: pink;
+a:hover {
+  color: purple;
   }
 
 
