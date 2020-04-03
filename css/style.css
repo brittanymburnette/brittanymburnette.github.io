@@ -21,10 +21,12 @@ h3 {
   font-family: 'Raleway', sans-serif;
   }
 #container {
+  background-color: thistle;
+  }
+#main {
   display: grid;
   grid-template-rows: 100px 400px 100px;
   grid-template-columns: 200px 500px 200px;
-  background-color: thistle;
   }
 #footer {
   border: medium;
