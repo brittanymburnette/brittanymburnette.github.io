@@ -38,13 +38,13 @@ p {
   width: 100%;
   }
 a:active {
-  color: silver;
+  color: purple;
   }
 a:visited {
   color: rosybrown;
   }
 a:hover {
-  color: purple;
+  color: silver;
   }
 
 
