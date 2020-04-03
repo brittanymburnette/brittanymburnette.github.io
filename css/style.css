@@ -39,7 +39,9 @@ a:visited: thistle;
   }
 a:hover: pink;
   }
-
+#container {
+  display: grid;
+}
 
 
 
