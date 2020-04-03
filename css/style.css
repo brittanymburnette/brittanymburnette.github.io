@@ -9,7 +9,6 @@ body {
   max-height: 960;
   }
 #header {
-  display: grid;
   background-color: plum;
   text-align: center;
   font: Bold;
@@ -22,6 +21,7 @@ h3 {
   font-family: 'Raleway', sans-serif;
   }
 #container {
+  display: grid;
   background-color: thistle;
   }
 #footer {
