@@ -20,6 +20,8 @@ h1 {
   }
 h3 {
   font-family: 'Raleway', sans-serif;
+  color:plum;
+  text-shadow: .2em .2em silver;
   }
 #container {
   background-color: thistle;
