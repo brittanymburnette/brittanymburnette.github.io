@@ -3,6 +3,7 @@ html {
   padding: 20px;
   }
 body {
+  display: grid;
   font-size: 16px;
   font-family: 'Raleway', sans-serif;
   background-color: thistle;
@@ -22,7 +23,6 @@ h3 {
   }
 #container {
   background-color: thistle;
-  display: grid;
   }
 #footer {
   border: medium;
