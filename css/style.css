@@ -3,13 +3,13 @@ html {
   padding: 20px;
   }
 body {
-  display: grid;
   font-size: 16px;
   font-family: 'Raleway', sans-serif;
   background-color: thistle;
   max-height: 960;
   }
 #header {
+  display: grid;
   background-color: plum;
   text-align: center;
   font: Bold;
