@@ -32,7 +32,8 @@ h3 {
   border: medium;
   }
 p {
-  background-color: thistle;
+  background-color: plum;
+  border: solid silver; 
   height: 50px;
   width: 100%;
   }
