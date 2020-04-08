@@ -21,7 +21,7 @@ h3 {
   font-family: 'Raleway', sans-serif;
   }
 #wrapper {
-  max-width:960px;
+  max-height:960px;
     margin: 0 auto;
   background-color: thistle;
   }
