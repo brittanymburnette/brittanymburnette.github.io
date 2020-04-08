@@ -6,6 +6,7 @@ body {
   font-size: 16px;
   font-family: 'Raleway', sans-serif;
   background-color: thistle;
+  max-width: 960px;
   }
 #header {
   background-color: plum;
@@ -21,7 +22,6 @@ h3 {
   font-family: 'Raleway', sans-serif;
   }
 #wrapper {
-  max-width: 960px;
   background-color: thistle;
   }
 #layout {
