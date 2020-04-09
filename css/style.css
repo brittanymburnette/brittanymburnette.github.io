@@ -20,8 +20,10 @@ h1 {
 h3 {
   font-family: 'Raleway', sans-serif;
   }
-#container {
+.container {
   background-color: thistle;
+  max-width: 960px;
+  margin: 0 auto;
   }
 #layout {
   display: grid;
