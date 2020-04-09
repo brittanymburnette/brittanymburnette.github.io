@@ -24,6 +24,9 @@ h3 {
   background-color: thistle;
   max-width: 960px;
   }
+#wrapper {
+  max-width: 960px;
+ }
 #layout {
   display: grid;
   grid-template-columns: 50% 50%;
