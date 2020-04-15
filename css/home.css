@@ -63,6 +63,11 @@ h1 {
   font-size: 50px;
 }
 
-.photo {
+img { 
+  background-color: plum;
+  border: 10px solid plum;
+}
+
+.center {
   text-align: center;
 }
