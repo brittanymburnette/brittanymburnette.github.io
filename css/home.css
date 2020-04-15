@@ -1,5 +1,5 @@
 .wrapper {
-  border: 5px solid plum;
+  border: 5px solid rosybrown;
   display: grid;
   grid-gap: none;
   background-color: plum;;
@@ -8,7 +8,8 @@
 }
 
 .wrapper-item {
-  border: 5px solid plum;
+  background -color: plum;
+  border: 5px solid thistle;
 }
 
 .header {
@@ -38,6 +39,7 @@ nav {
   padding: 0.25em 0;
 }
 nav ul {
+  background-color: plum;
   padding-left: 0;
   list-style: none;
 }
