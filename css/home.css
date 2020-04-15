@@ -13,6 +13,7 @@
 }
 
 #header {
+  background-color: plum;
   text-align: center;
   grid-column: 1/3;
   grid-row: 1//2;
@@ -55,6 +56,6 @@ h1 {
   text-align: center;
   font-size: 50px;
 }
-#home {
+#photo {
   text-align: center;
 }
