@@ -1,8 +1,8 @@
 .wrapper {
-  border: 5px solid rosybrown;
+  border: 5px solid plum;
   display: grid;
   grid-gap: none;
-  background-color: plum;;
+  background-color: plum;
   max-width: 960px;
   margin: auto;
 }
@@ -51,8 +51,10 @@ nav li {
 }
 h1 {
   background-color: plum;
-  color: gold;
+  color: black;
   text-align: center;
   font-size: 50px;
 }
-  
+img {
+  position: center;
+}
