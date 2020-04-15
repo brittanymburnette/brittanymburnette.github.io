@@ -12,7 +12,7 @@
   border: 5px solid thistle;
 }
 
-.header {
+#header {
   text-align: center;
   grid-column: 1/3;
   grid-row: 1//2;
