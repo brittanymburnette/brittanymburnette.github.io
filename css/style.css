@@ -48,6 +48,9 @@ a:hover {
   color: silver;
   }
 nav {
+  position: fixed;
+  top: 0;
+  left: 0;
   font-family: 'Raleway', sans-serif;
   width: 100%;
   padding: 0.25em 0;
