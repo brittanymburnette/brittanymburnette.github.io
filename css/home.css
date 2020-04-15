@@ -2,7 +2,7 @@
   border: 5px solid plum;
   display: grid;
   grid-gap: none;
-  back-ground-color: white;
+  background-color: plum;;
   max-width: 960px;
   margin: auto;
 }
@@ -31,7 +31,6 @@ a:hover {
   color: silver;
   }
 nav {
-  border: 5px solid plum;
   top: 0;
   left: 0;
   font-family: 'Raleway', sans-serif;
