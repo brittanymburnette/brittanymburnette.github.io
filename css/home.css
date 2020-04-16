@@ -82,3 +82,11 @@ p {
   grid-template-columns: 50% 50%;
   list-style: none;
 }
+
+.skills {
+  list-style: none;
+}
+
+.awards {
+  list-style: none;
+}
