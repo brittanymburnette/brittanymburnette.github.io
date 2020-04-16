@@ -80,8 +80,5 @@ p {
 #layout {
   display: grid;
   grid-template-columns: 50% 50%;
-}
-
-ul {
   list-style: none;
 }
