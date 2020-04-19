@@ -92,5 +92,7 @@ p {
 }
 
 .hp {
+  float: left;
   clear: right;
+  margin-right: 5px;
 }
