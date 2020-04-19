@@ -6,8 +6,8 @@ body {
   display: grid;
   grid-template-columns: 100px 100px 100px;
   grid-gap: 10px;
-  background-color: #fff;
-  color: #444;
+  background-color: #FFF0F5;
+  color: gray;
 }
 
 .box {
@@ -19,7 +19,7 @@ body {
 }
 
  h1 {
-  background-color: #FFF0F5;;
+  background-color: #FFF0F5;
   color: gray;
   text-align: center;
   font-family: 'Great Vibes', cursive;
