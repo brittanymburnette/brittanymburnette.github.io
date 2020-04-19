@@ -92,5 +92,5 @@ p {
 }
 
 .hp {
-  float: left;
+  clear: right;
 }
