@@ -63,6 +63,11 @@ h1 {
   font-size: 50px;
 }
 
+img { 
+  background-color: #FFF0F5;
+  border: 10px solid #FFF0F5;
+}
+
 .center {
   text-align: center;
 }
@@ -70,6 +75,20 @@ h1 {
 p {
   font-family: 'Raleway', sans-serif;
   font-size: 14px;
+}
+
+#layout {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  list-style: none;
+}
+
+.skills {
+  list-style: none;
+}
+
+.awards {
+  list-style: none;
 }
 
 #writing {
