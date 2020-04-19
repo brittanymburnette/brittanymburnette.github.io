@@ -18,6 +18,11 @@ body {
     'footer footer footer footer footer footer';
 }
 
+.left,.middle,.right {
+  padding: 10px;
+  height: 300px;
+}
+
 .left {
   grid-area: left;
 }
