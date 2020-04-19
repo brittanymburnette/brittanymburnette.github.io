@@ -19,30 +19,21 @@ body {
 }
 
 .left {
-  padding: 10px;
-  height: 300px;
-}
-
-.middle {
-  padding: 10px;
-  height: 300px;
-}
-
-.right {
-  padding: 10px;
-  height: 300px;
-}
-
-.left {
   grid-area: left;
+  padding: 10px;
+  height: 300px;
 }
 
 .middle {
   grid-area: middle;
+  padding: 10px;
+  height: 300px;
 }
 
 .right {
   grid-area: right;
+  padding: 10px;
+  height: 300px;
 }
 
 .footer {
