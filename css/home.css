@@ -70,6 +70,11 @@ img {
 
 .center {
   text-align: center;
+  float: none;
+  width: 750px;
+  height: 110px;
+  position: fixed;
+  top: 0px;
 }
 
 p {
