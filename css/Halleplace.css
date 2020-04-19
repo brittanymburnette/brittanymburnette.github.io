@@ -62,3 +62,13 @@ h1 {
   font-family: 'Great Vibes', cursive;
   font-size: 50px;
 }
+
+.center {
+  text-align: center;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 14px;
+}
+
