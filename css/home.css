@@ -92,6 +92,8 @@ p {
 }
 
 #section {
+  float: left;
+  margin-right: 5px;
   display: grid;
   grid-template-columns: 50% 50%;
   list-style: none;
