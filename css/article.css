@@ -18,7 +18,17 @@ body {
     'footer footer footer footer footer footer';
 }
 
-.left,.middle,.right {
+.left {
+  padding: 10px;
+  height: 300px;
+}
+
+.middle {
+  padding: 10px;
+  height: 300px;
+}
+
+.right {
   padding: 10px;
   height: 300px;
 }
