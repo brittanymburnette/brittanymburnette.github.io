@@ -1,9 +1,12 @@
+body {
+  margin: 40px;
+}
+
 .wrapper {
-  border: 5px solid #FFF0F5;
   display: grid;
+  justify-items: center;
   background-color: #FFF0F5;
   max-width: 960px;
-  margin: auto;
   grid-gap: 10px;
   grid-template-columns: repeat(6, 150px);
   grid-template-rows: repeat( 4, 150px);
