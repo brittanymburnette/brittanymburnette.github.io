@@ -6,7 +6,6 @@ body {
   background-color: #FFF0F5;
   padding: 30px;
   text-align: center;
-  font-size: 35px;
   font-family: 'Great Vibes', cursive;
 }
   
@@ -80,3 +79,10 @@ nav li {
   text-align: center;
 }
 
+  h1 {
+  background-color: #FFF0F5;;
+  color: gray;
+  text-align: center;
+  font-family: 'Great Vibes', cursive;
+  font-size: 50px;
+}
