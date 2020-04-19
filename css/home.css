@@ -90,3 +90,12 @@ p {
 .awards {
   list-style: none;
 }
+
+div {
+  float:left;
+  margin-right:5px;
+}
+
+.hp {
+  clear:both;
+}
