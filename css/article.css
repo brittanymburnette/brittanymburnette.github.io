@@ -54,3 +54,15 @@ nav li {
   text-align: center;
 }
 
+a:active {
+  color: #FFF0F5;
+  }
+
+a:visited {
+  color: rosybrown;
+  }
+
+a:hover {
+  color: silver;
+  }
+
