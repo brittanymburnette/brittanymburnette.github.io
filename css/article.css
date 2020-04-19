@@ -34,3 +34,23 @@ body {
   font-family: 'Great Vibes', cursive;
 }
 
+nav {
+  top: 0;
+  left: 0;
+  font-family: 'Raleway', sans-serif;
+  width: 100%;
+  padding: 0.25em 0;
+}
+
+nav ul {
+  background-color: #FFF0F5;
+  padding-left: 0;
+  list-style: none;
+}
+
+nav li {
+  display: inline;
+  margin-right: 20px;
+  text-align: center;
+}
+
