@@ -93,6 +93,6 @@ p {
 
 .hp {
   float: left;
-  clear: right;
+  clear: both;
   margin-right: 5px;
 }
