@@ -5,9 +5,6 @@
   background-color: #FFF0F5;
   max-width: 960px;
   margin: auto; 
-  grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: 100px 100px;
-  grid-auto-rows: 300px;
 }
 
 .wrapper-item {
