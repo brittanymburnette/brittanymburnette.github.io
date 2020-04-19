@@ -91,3 +91,7 @@ p {
 .awards {
   list-style: none;
 }
+
+.hp {
+  float: left;
+}
