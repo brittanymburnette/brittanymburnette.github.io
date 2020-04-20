@@ -4,11 +4,13 @@ body {
 }
 
 .wrapper {
+  border: 5px solid #FFF0F5;
   display: grid;
   grid-template-columns: auto auto auto;
   grid-gap: 10px;
   background-color: #FFF0F5;
   color: gray;
+  margin: auto;
 }
 
 .box {
