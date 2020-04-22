@@ -9,6 +9,7 @@
 
 .wrapper-item {
   background -color: #FFF0F5;
+  max-width: 960px;
 }
 
 .header {
