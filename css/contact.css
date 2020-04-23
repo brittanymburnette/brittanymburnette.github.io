@@ -3,7 +3,7 @@ font-family:'Great Vibes', sans-serif;
 font-size: 28px;
 }
 
-.container {
+.wrapper {
    height: 90vh;
    width: 1900px;
    margin: 2rem auto;
