@@ -27,9 +27,9 @@
 	.st21{fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;stroke-dasharray:2.0067,2.0067;}
 	.st22{fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;stroke-dasharray:1.9922,1.9922;}
 	.st23{fill:none;stroke:#404040;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
-	.st24{fill:#7FB27C;stroke:#7FB27C;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
-	.st25{fill:#003920;stroke:#003920;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
-	.st26{fill:#1B8359;stroke:#1B8359;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st24{fill:none;stroke:#7FB27C;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st25{fill:none;stroke:#003920;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st26{fill:none;stroke:#1B8359;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
 	.st27{fill:#1B8359;}
 	.st28{font-size:16.6364px;}
 	.st29{fill:#7FB27C;}
@@ -91,17 +91,18 @@
 	.st63{fill:url(#legend-rect_5_);}
 	.st64{font-size:11px;}
 	.st65{font-size:7.6312px;}
-	.st66{fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;stroke-dasharray:1.9352,1.9352;}
-	.st67{fill:#BDE2F2;}
-	.st68{fill:none;stroke:#000000;stroke-miterlimit:10;}
-	.st69{fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;}
-	.st70{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:0.25;stroke-miterlimit:10;}
-	.st71{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st66{fill:none;}
+	.st67{fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;stroke-dasharray:1.9352,1.9352;}
+	.st68{fill:#BDE2F2;}
+	.st69{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st70{fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;}
+	.st71{fill:#FFFFFF;}
 	.st72{fill:none;stroke:#FFFFFF;stroke-width:0.25;stroke-miterlimit:10;}
-	.st73{fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;stroke-dasharray:1.8202,1.8202;}
-	.st74{fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;stroke-dasharray:2.0866,2.0866;}
-	.st75{fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;stroke-dasharray:2.1571,2.1571;}
-	.st76{fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;stroke-dasharray:2.2587,2.2587;}
+	.st73{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st74{fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;stroke-dasharray:1.8202,1.8202;}
+	.st75{fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;stroke-dasharray:2.0866,2.0866;}
+	.st76{fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;stroke-dasharray:2.1571,2.1571;}
+	.st77{fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;stroke-dasharray:2.2587,2.2587;}
 </style>
 <g>
 	<g>
@@ -201,7 +202,9 @@
 		<line class="st0" x1="1187.4" y1="359.9" x2="1188.4" y2="359.9"/>
 	</g>
 </g>
-<text transform="matrix(1 0 0 1 13.6886 45.9708)"><tspan x="0" y="0" class="st9 st10 st11">WHY ARE YOUNG PEOPLE MIGRATING </tspan><tspan x="0" y="28.8" class="st9 st10 st11">FROM JAMAICA MORE THAN ANY OTHER</tspan><tspan x="0" y="57.6" class="st9 st10 st11">AGE GROUP?</tspan></text>
+<text transform="matrix(1 0 0 1 13.6886 45.9708)" class="st9 st10 st11">WHY ARE YOUNG PEOPLE MIGRATING </text>
+<text transform="matrix(1 0 0 1 13.6886 74.7708)" class="st9 st10 st11">FROM JAMAICA MORE THAN ANY OTHER</text>
+<text transform="matrix(1 0 0 1 13.6886 103.5708)" class="st9 st10 st11">AGE GROUP?</text>
 <g>
 	<path class="st0" d="M1189.1,399.2"/>
 	<path class="st0" d="M948.5,399.2"/>
@@ -237,8 +240,12 @@
 	<text transform="matrix(1 0 0 1 998.5697 408.5283)" class="st12 st13">25-34</text>
 	<text transform="matrix(1 0 0 1 956.6093 408.5283)" class="st12 st13">18-24</text>
 </g>
-<text transform="matrix(1 0 0 1 843.0762 74.8182)"><tspan x="0" y="0" class="st9 st10 st15">                                    </tspan><tspan x="73.7" y="0" class="st9 st10 st16">Age of Jamaican Emigrants</tspan><tspan x="0" y="25.2" class="st9 st10 st16">             to the USA</tspan></text>
-<text transform="matrix(1 0 0 1 915.3606 113.3056)"><tspan x="0" y="0" class="st9 st12 st17">A mobile youth survey has found 81 per cent of Jamaicans between</tspan><tspan x="0" y="12" class="st9 st12 st17">the ages of 14 and 40 would migrate if given the opportunity. Below</tspan><tspan x="0" y="24" class="st9 st12 st17">are the numbers of Jamaican migrants to the USA by age groups. </tspan></text>
+<text transform="matrix(1 0 0 1 843.0762 74.8182)" class="st9 st10 st15">                                    </text>
+<text transform="matrix(1 0 0 1 916.7762 74.8182)" class="st9 st10 st16">Age of Jamaican Emigrants</text>
+<text transform="matrix(1 0 0 1 843.0762 100.0182)" class="st9 st10 st16">             to the USA</text>
+<text transform="matrix(1 0 0 1 915.3606 113.3056)" class="st9 st12 st17">A mobile youth survey has found 81 per cent of Jamaicans between</text>
+<text transform="matrix(1 0 0 1 915.3606 125.3056)" class="st9 st12 st17">the ages of 14 and 40 would migrate if given the opportunity. Below</text>
+<text transform="matrix(1 0 0 1 915.3606 137.3056)" class="st9 st12 st17">are the numbers of Jamaican migrants to the USA by age groups. </text>
 <g>
 	<path class="st0" d="M506.4,748"/>
 	<path class="st0" d="M40.1,748"/>
@@ -356,7 +363,9 @@
 <text transform="matrix(1 0 0 1 208.4502 762.0254)" class="st12 st18">2005</text>
 <text transform="matrix(1 0 0 1 136.8379 762.0254)" class="st12 st18">2004</text>
 <text transform="matrix(1 0 0 1 -7.9395 517.2661)" class="st9 st10 st16">    Jamaicans migrate to USA, UK and Canada</text>
-<text transform="matrix(1 0 0 1 13.6884 537.1082)"><tspan x="0" y="0" class="st9 st12 st31">So, where do Jamaicans move to? Predominately Jamaicans migrate to countries like the United</tspan><tspan x="0" y="14.4" class="st9 st12 st31">States, Canada, and the United Kingdom because they have established Jamaican communities</tspan><tspan x="0" y="28.8" class="st9 st12 st31">as well as stronger economies and higher wages. </tspan></text>
+<text transform="matrix(1 0 0 1 13.6884 537.1082)" class="st9 st12 st31">So, where do Jamaicans move to? Predominately Jamaicans migrate to countries like the United</text>
+<text transform="matrix(1 0 0 1 13.6884 551.5082)" class="st9 st12 st31">States, Canada, and the United Kingdom because they have established Jamaican communities</text>
+<text transform="matrix(1 0 0 1 13.6884 565.9082)" class="st9 st12 st31">as well as stronger economies and higher wages. </text>
 <polygon id="Westmoreland" class="st32" points="627.1,217.6 628.6,220.6 629.4,221.4 629.7,221.6 630,221.8 630.3,222 630.5,222.3 
 	630.9,222.9 632,226.2 631.9,227.4 630.6,230.9 628.5,231.9 628.1,232.2 627.4,232.8 625.9,235 625.1,236.7 624.8,237.5 
 	624.8,237.9 624.8,238.3 625,239 625.2,239.3 624.8,241.3 622.1,248.4 621.2,250.2 621.2,250.2 619.1,245.7 618,244.2 616.8,243.5 
@@ -390,7 +399,7 @@
 	630.9,222.9 630.5,222.3 630.3,222 630,221.8 629.7,221.6 629.4,221.4 628.6,220.6 627.1,217.6 625.4,214.3 625,213.9 624.3,213.3 
 	622.4,212.4 621.9,212.1 621.7,211.8 621,210.4 619.4,207.7 619,206.9 618.8,205.9 618.5,205.3 618.3,204.9 616,203.2 615.6,202.7 
 	615.3,202.2 616.2,199.2 616.3,198.8 616.3,197.6 616.3,197.6 617.4,197.9 618.9,198.3 620.5,198.1 621.8,197.2 622,196.3 
-	621.9,195.3 622.8,193.9 625.9,190.2 627.3,189 629.7,188 635.2,187.2 641.5,187.4 652.5,189.6 "/>
+	621.9,195.3 622.8,193.9 625.9,190.2 627.3,189 629.7,188 635.2,187.2 641.5,187.4 "/>
 <polygon id="Saint_Elizabeth" class="st37" points="665.6,227.6 666.3,239.5 675.6,275.2 675.9,275.8 675.9,275.8 672.7,275.3 
 	654.1,276.3 653.2,276.1 650.3,274.3 645.5,272.1 644.3,271.2 643.7,270.2 642.3,266.8 642,265.8 641.5,264.9 639.1,264.1 
 	638.3,263.5 638.1,260.8 638.3,257.4 637.5,254.6 634,253.4 624.5,253.3 622.3,252.6 621.2,250.2 621.2,250.2 622.1,248.4 
@@ -488,7 +497,7 @@
 	634.1,493.8 633.7,493.1 633.5,492.9 633.2,492.6 633,492.4 632.6,492.2 631.9,491.3 630.4,488.2 628.7,484.7 628.4,484.3 
 	627.7,483.7 625.8,482.7 625.4,482.3 625.1,482 624.4,480.5 622.9,477.7 622.5,476.9 622.3,475.9 622,475.2 621.8,474.8 619.6,473 
 	619.1,472.4 618.9,471.9 619.8,468.8 619.8,468.4 619.9,467 619.9,467 620.9,467.4 622.4,467.8 623.9,467.5 625.3,466.6 
-	625.4,465.6 625.4,464.6 626.2,463.1 629.2,459.2 630.6,458 632.9,456.9 638.4,456 644.5,456.2 655.3,458.6 "/>
+	625.4,465.6 625.4,464.6 626.2,463.1 629.2,459.2 630.6,458 632.9,456.9 638.4,456 644.5,456.2 "/>
 <polygon id="Saint_Elizabeth_1_" class="st49" points="668,498.7 668.7,511.3 677.8,549.1 678.1,549.7 678.1,549.7 674.9,549.2 
 	656.8,550.2 655.9,550 653.1,548.1 648.4,545.8 647.2,544.9 646.6,543.8 645.3,540.2 645,539.1 644.5,538.2 642.1,537.4 
 	641.3,536.7 641.1,533.8 641.4,530.3 640.5,527.3 637.1,526.1 627.9,526 625.7,525.2 624.6,522.6 624.6,522.6 625.6,520.8 
@@ -554,7 +563,7 @@
 	703.8,548.8 704,547.1 704.8,544.5 704.9,544 704.8,543.6 704.5,543.1 702.9,541.8 702.3,540.9 702,540.3 701.8,539.5 701.5,537.6 
 	701.4,536.6 701.5,536 701.8,534.9 702,534.1 687.1,504.3 686.8,502.2 690,503.2 693.5,503.8 694.1,503.8 694.7,503.7 695.7,503.3 
 	696.2,503 697.2,502.3 697.5,502.1 702.2,501.1 702.7,501.1 703.4,501.2 706.1,502.2 712.8,503.4 "/>
-<linearGradient id="legend-rect_3_" gradientUnits="userSpaceOnUse" x1="2.8364" y1="781.1323" x2="3.1667" y2="781.1323" gradientTransform="matrix(255 0 0 -12 36.1406 9527)">
+<linearGradient id="legend-rect_3_" gradientUnits="userSpaceOnUse" x1="307.6363" y1="10.8667" x2="307.9665" y2="10.8667" gradientTransform="matrix(255 0 0 12 -77687.8594 23)">
 	<stop  offset="0" style="stop-color:#F8FBF5"/>
 	<stop  offset="0" style="stop-color:#F8FBF5"/>
 	<stop  offset="0.125" style="stop-color:#E6F2E0"/>
@@ -586,10 +595,19 @@
 	<text transform="matrix(1 0 0 1 835.0471 165.1945)" class="st55 st12 st56">0.33</text>
 </g>
 <text transform="matrix(1 0 0 1 559.7777 74.8182)" class="st9 st10 st16">Poverty In Jamaica</text>
-<text transform="matrix(1 0 0 1 559.7776 89.4019)"><tspan x="0" y="0" class="st9 st12 st17">Poverty is a big issue in Jamaicas economy and most unemployed</tspan><tspan x="0" y="12" class="st9 st12 st17">people are the ones facing the issue. When people can’t work and</tspan><tspan x="0" y="24" class="st9 st12 st17">afford things, this leads to financial problems, divorce, children losing</tspan><tspan x="0" y="36" class="st9 st12 st17">their education and health, hunger, fights and more which then can</tspan><tspan x="0" y="48" class="st9 st12 st17">lead to poverty.</tspan></text>
+<text transform="matrix(1 0 0 1 559.7776 89.4019)" class="st9 st12 st17">Poverty is a big issue in Jamaicas economy and most unemployed</text>
+<text transform="matrix(1 0 0 1 559.7776 101.4019)" class="st9 st12 st17">people are the ones facing the issue. When people can’t work and</text>
+<text transform="matrix(1 0 0 1 559.7776 113.4019)" class="st9 st12 st17">afford things, this leads to financial problems, divorce, children losing</text>
+<text transform="matrix(1 0 0 1 559.7776 125.4019)" class="st9 st12 st17">their education and health, hunger, fights and more which then can</text>
+<text transform="matrix(1 0 0 1 559.7776 137.4019)" class="st9 st12 st17">lead to poverty.</text>
 <text transform="matrix(1 0 0 1 560.3414 336.2592)" class="st9 st10 st16">Vocational Colleges In Jamaica</text>
-<text transform="matrix(1 0 0 1 560.3414 351.2381)"><tspan x="0" y="0" class="st9 st12 st17">To improve Jamaicas economy and increase young Jamaicans</tspan><tspan x="0" y="12" class="st9 st12 st17">employment opportunities the islands focus is on improving the</tspan><tspan x="0" y="24" class="st9 st12 st17">education and training provided to young people, with a greater focus</tspan><tspan x="0" y="36" class="st9 st12 st17">on vocational skills. Vocational college is a relevant platform to</tspan><tspan x="0" y="48" class="st9 st12 st17">respond to the demands of the modern workforce and will become a </tspan><tspan x="0" y="60" class="st9 st12 st17">driving force in propelling the effort to strengthen the economy.</tspan></text>
-<linearGradient id="legend-rect_4_" gradientUnits="userSpaceOnUse" x1="2.8386" y1="757.7934" x2="3.169" y2="757.7934" gradientTransform="matrix(255 0 0 -12 36.1406 9527)">
+<text transform="matrix(1 0 0 1 560.3414 351.2381)" class="st9 st12 st17">To improve Jamaicas economy and increase young Jamaicans</text>
+<text transform="matrix(1 0 0 1 560.3414 363.2381)" class="st9 st12 st17">employment opportunities the islands focus is on improving the</text>
+<text transform="matrix(1 0 0 1 560.3414 375.2381)" class="st9 st12 st17">education and training provided to young people, with a greater focus</text>
+<text transform="matrix(1 0 0 1 560.3414 387.2381)" class="st9 st12 st17">on vocational skills. Vocational college is a relevant platform to</text>
+<text transform="matrix(1 0 0 1 560.3414 399.2381)" class="st9 st12 st17">respond to the demands of the modern workforce and will become a </text>
+<text transform="matrix(1 0 0 1 560.3414 411.2381)" class="st9 st12 st17">driving force in propelling the effort to strengthen the economy.</text>
+<linearGradient id="legend-rect_4_" gradientUnits="userSpaceOnUse" x1="307.6387" y1="34.2083" x2="307.9689" y2="34.2083" gradientTransform="matrix(255 0 0 12 -77687.8594 23)">
 	<stop  offset="0" style="stop-color:#F8FBF5"/>
 	<stop  offset="0" style="stop-color:#F8FBF5"/>
 	<stop  offset="0.125" style="stop-color:#E6F2E0"/>
@@ -653,7 +671,7 @@
 	636.1,708.4 635.7,707.7 635.5,707.4 635.3,707.1 635,706.9 634.6,706.7 633.8,705.8 632.3,702.5 630.6,698.9 630.3,698.4 
 	629.6,697.8 627.7,696.8 627.2,696.4 626.9,696.1 626.2,694.5 624.7,691.6 624.3,690.7 624.1,689.6 623.7,688.9 623.5,688.5 
 	621.3,686.6 620.8,686 620.6,685.5 621.5,682.2 621.5,681.8 621.6,680.4 621.6,680.4 622.6,680.8 624.1,681.2 625.7,680.9 
-	627.1,679.9 627.2,679 627.2,677.8 628,676.3 631.1,672.3 632.5,670.9 635,669.8 640.5,668.9 646.8,669.1 657.8,671.6 "/>
+	627.1,679.9 627.2,679 627.2,677.8 628,676.3 631.1,672.3 632.5,670.9 635,669.8 640.5,668.9 646.8,669.1 "/>
 <polygon id="Saint_Elizabeth_2_" class="st51" points="670.9,713.5 671.5,726.7 680.9,766.1 681.2,766.8 681.2,766.8 678,766.2 
 	659.4,767.3 658.5,767.1 655.6,765.1 650.8,762.7 649.6,761.7 649,760.6 647.6,756.9 647.3,755.7 646.8,754.8 644.3,753.9 
 	643.5,753.2 643.3,750.2 643.6,746.5 642.7,743.4 639.3,742.1 629.8,742 627.6,741.2 626.4,738.5 626.4,738.5 627.4,736.6 
@@ -720,7 +738,7 @@
 	690.1,717.1 693.4,718.2 697,718.8 697.6,718.8 698.2,718.7 699.2,718.3 699.8,718 700.8,717.2 701.1,717.1 705.8,716 706.4,716 
 	707.1,716.1 709.8,717.2 716.7,718.4 "/>
 <text transform="matrix(1 0 0 1 559.7773 599.1982)" class="st9 st10 st16">Unemployement In Jamaica</text>
-<linearGradient id="legend-rect_5_" gradientUnits="userSpaceOnUse" x1="2.8386" y1="738.8261" x2="3.169" y2="738.8261" gradientTransform="matrix(255 0 0 -12 36.1406 9527)">
+<linearGradient id="legend-rect_5_" gradientUnits="userSpaceOnUse" x1="307.6387" y1="53.175" x2="307.9689" y2="53.175" gradientTransform="matrix(255 0 0 12 -77687.8594 23)">
 	<stop  offset="0" style="stop-color:#F8FBF5"/>
 	<stop  offset="0" style="stop-color:#F8FBF5"/>
 	<stop  offset="0.125" style="stop-color:#E6F2E0"/>
@@ -751,22 +769,39 @@
 	<text transform="matrix(1 0 0 1 757.9777 672.8687)" class="st55 st12 st56">0</text>
 	<text transform="matrix(1 0 0 1 830.5944 672.8687)" class="st55 st12 st56">210.7</text>
 </g>
-<text transform="matrix(1 0 0 1 559.7775 611.6398)"><tspan x="0" y="0" class="st9 st12 st17">Jamaica’s youth unemployment rate affects the islands ability to </tspan><tspan x="0" y="12" class="st9 st12 st17">achieve prosperity and see economic growth. Young Jamaicans are</tspan><tspan x="0" y="24" class="st9 st12 st17">struggling to find decent work to survive, improve their livelihoods and</tspan><tspan x="0" y="36" class="st9 st12 st17">overall improve the economy.</tspan></text>
-<text transform="matrix(0.9837 0 0 1 773.6495 775.1728)"><tspan x="0" y="0" class="st12 st13">St. Andrew</tspan><tspan x="0" y="12" class="st12 st64">    </tspan><tspan x="12.2" y="12" class="st10 st31">210.7</tspan></text>
-<text transform="matrix(0.9837 0 0 1 660.7827 660.4271)"><tspan x="0" y="0" class="st12 st13">Trelawny</tspan><tspan x="0" y="12" class="st12 st64">   </tspan><tspan x="9.2" y="12" class="st10 st64">25.4</tspan></text>
-<text transform="matrix(1.0856 0 0 1 803.7854 296.1603)"><tspan x="0" y="0" class="st12 st13">St. Thomas</tspan><tspan x="0" y="12" class="st10 st64">     </tspan><tspan x="15.3" y="12" class="st10 st31">0.33</tspan></text>
-<text transform="matrix(1.0856 0 0 1 577.3469 173.2823)"><tspan x="0" y="0" class="st12 st13">Hanover</tspan><tspan x="0" y="12" class="st12 st64">   </tspan><tspan x="9.2" y="12" class="st10 st31">0.10</tspan></text>
-<text transform="matrix(1.0036 0 0 1 767.5502 558.6409)"><tspan x="0" y="0" class="st12 st13">St. Andrew</tspan><tspan x="0" y="12" class="st10 st65">      </tspan><tspan x="12.7" y="12" class="st10 st31">85</tspan></text>
+<text transform="matrix(1 0 0 1 559.7775 611.6398)" class="st9 st12 st17">Jamaica’s youth unemployment rate affects the islands ability to </text>
+<text transform="matrix(1 0 0 1 559.7775 623.6398)" class="st9 st12 st17">achieve prosperity and see economic growth. Young Jamaicans are</text>
+<text transform="matrix(1 0 0 1 559.7775 635.6398)" class="st9 st12 st17">struggling to find decent work to survive, improve their livelihoods and</text>
+<text transform="matrix(1 0 0 1 559.7775 647.6398)" class="st9 st12 st17">overall improve the economy.</text>
+<text transform="matrix(0.9837 0 0 1 773.6494 775.1729)" class="st12 st13">St. Andrew</text>
+<text transform="matrix(0.9837 0 0 1 773.6494 787.1729)" class="st12 st64">    </text>
+<text transform="matrix(0.9837 0 0 1 785.6504 787.1729)" class="st10 st31">210.7</text>
+<text transform="matrix(0.9837 0 0 1 660.7832 660.4268)" class="st12 st13">Trelawny</text>
+<text transform="matrix(0.9837 0 0 1 660.7832 672.4268)" class="st12 st64">   </text>
+<text transform="matrix(0.9837 0 0 1 669.833 672.4268)" class="st10 st64">25.4</text>
+<text transform="matrix(1.0856 0 0 1 803.7852 296.1602)" class="st12 st13">St. Thomas</text>
+<text transform="matrix(1.0856 0 0 1 803.7852 308.1602)" class="st10 st64">     </text>
+<text transform="matrix(1.0856 0 0 1 820.3955 308.1602)" class="st10 st31">0.33</text>
+<text transform="matrix(1.0856 0 0 1 577.3477 173.2822)" class="st12 st13">Hanover</text>
+<text transform="matrix(1.0856 0 0 1 577.3477 185.2822)" class="st12 st64">   </text>
+<text transform="matrix(1.0856 0 0 1 587.335 185.2822)" class="st10 st31">0.10</text>
+<text transform="matrix(1.0036 0 0 1 767.5498 558.6406)" class="st12 st13">St. Andrew</text>
+<text transform="matrix(1.0036 0 0 1 767.5498 570.6406)" class="st10 st65">      </text>
+<text transform="matrix(1.0036 0 0 1 780.2959 570.6406)" class="st10 st31">85</text>
 <g>
-	<line x1="672.9" y1="455.1" x2="672.9" y2="482.3"/>
+	<line class="st66" x1="672.9" y1="455.1" x2="672.9" y2="482.3"/>
 	<g>
 		<line class="st0" x1="672.9" y1="455.1" x2="672.9" y2="456.1"/>
-		<line class="st66" x1="672.9" y1="458" x2="672.9" y2="480.3"/>
+		<line class="st67" x1="672.9" y1="458" x2="672.9" y2="480.3"/>
 		<line class="st0" x1="672.9" y1="481.3" x2="672.9" y2="482.3"/>
 	</g>
 </g>
-<text transform="matrix(1.0036 0 0 1 815.6183 567.1658)"><tspan x="0" y="0" class="st12 st13">St. Thomas</tspan><tspan x="0" y="12" class="st12 st64">      </tspan><tspan x="18.3" y="12" class="st10 st31">0</tspan></text>
-<text transform="matrix(1 0 0 1 655.2551 440.1228)"><tspan x="0" y="0" class="st12 st13">Trelawny</tspan><tspan x="0" y="12" class="st12 st65">     </tspan><tspan x="10.6" y="12" class="st10 st31"> 0</tspan></text>
+<text transform="matrix(1.0036 0 0 1 815.6182 567.166)" class="st12 st13">St. Thomas</text>
+<text transform="matrix(1.0036 0 0 1 815.6182 579.166)" class="st12 st64">      </text>
+<text transform="matrix(1.0036 0 0 1 833.9844 579.166)" class="st10 st31">0</text>
+<text transform="matrix(1 0 0 1 655.2551 440.1228)" class="st12 st13">Trelawny</text>
+<text transform="matrix(1 0 0 1 655.2551 452.1228)" class="st12 st65">     </text>
+<text transform="matrix(1 0 0 1 665.8551 452.1228)" class="st10 st31"> 0</text>
 <text transform="matrix(1 0 0 1 10.9663 782.4258)" class="st12 st56">Graphic designed by Brittany Burnette</text>
 <text transform="matrix(1 0 0 1 926.165 784.3776)" class="st12 st56">Data from World Data Info, Statistical Institute of Jamaica, and Education Data Policy Center  </text>
 <g>
@@ -780,15 +815,15 @@
 </g>
 <g>
 	<g>
-		<text transform="matrix(1.0286 0 0 1 942.3286 757.7892)" class="st12 st13">0</text>
-		<text transform="matrix(1.0286 0 0 1 937.1802 729.459)" class="st12 st13">10</text>
-		<text transform="matrix(1.0286 0 0 1 937.1802 699.0899)" class="st12 st13">20</text>
-		<text transform="matrix(1.0286 0 0 1 937.1802 668.7198)" class="st12 st13">30</text>
-		<text transform="matrix(1.0286 0 0 1 937.1802 638.3506)" class="st12 st13">40</text>
-		<text transform="matrix(1.0286 0 0 1 937.1802 607.9815)" class="st12 st13">50</text>
-		<text transform="matrix(1.0286 0 0 1 937.1802 577.6114)" class="st12 st13">60</text>
-		<text transform="matrix(1.0286 0 0 1 937.1802 547.2422)" class="st12 st13">70</text>
-		<text transform="matrix(1.0286 0 0 1 937.1802 516.8721)" class="st12 st13">80</text>
+		<text transform="matrix(1.0286 0 0 1 942.3291 757.7891)" class="st12 st13">0</text>
+		<text transform="matrix(1.0286 0 0 1 937.1807 729.459)" class="st12 st13">10</text>
+		<text transform="matrix(1.0286 0 0 1 937.1807 699.0898)" class="st12 st13">20</text>
+		<text transform="matrix(1.0286 0 0 1 937.1807 668.7197)" class="st12 st13">30</text>
+		<text transform="matrix(1.0286 0 0 1 937.1807 638.3506)" class="st12 st13">40</text>
+		<text transform="matrix(1.0286 0 0 1 937.1807 607.9814)" class="st12 st13">50</text>
+		<text transform="matrix(1.0286 0 0 1 937.1807 577.6113)" class="st12 st13">60</text>
+		<text transform="matrix(1.0286 0 0 1 937.1807 547.2422)" class="st12 st13">70</text>
+		<text transform="matrix(1.0286 0 0 1 937.1807 516.8721)" class="st12 st13">80</text>
 	</g>
 	<path class="st0" d="M951.4,513"/>
 	<path class="st0" d="M951.4,755.9"/>
@@ -804,129 +839,154 @@
 	</g>
 </g>
 <g>
-	<text transform="matrix(1.0286 0 0 1 1165.1069 767.9297)" class="st12 st13">JA </text>
-	<text transform="matrix(1.0286 0 0 1 1102.3979 767.9297)" class="st12 st13">UK</text>
-	<text transform="matrix(1.0286 0 0 1 1036.3452 767.9297)" class="st12 st13">USA</text>
-	<text transform="matrix(1.0286 0 0 1 976.4653 767.9297)" class="st12 st13">CA</text>
+	<text transform="matrix(1.0286 0 0 1 1165.1074 767.9297)" class="st12 st13">JA </text>
+	<text transform="matrix(1.0286 0 0 1 1102.3984 767.9297)" class="st12 st13">UK</text>
+	<text transform="matrix(1.0286 0 0 1 1036.3457 767.9297)" class="st12 st13">USA</text>
+	<text transform="matrix(1.0286 0 0 1 976.4658 767.9297)" class="st12 st13">CA</text>
 </g>
 <text transform="matrix(1 0 0 1 915.3611 453.0322)" class="st9 st10 st16">Quality of Life</text>
-<text transform="matrix(1 0 0 1 915.3607 464.2346)"><tspan x="0" y="0" class="st9 st12 st17">Jamaican migration to Canada, the United States of America, and the</tspan><tspan x="0" y="12" class="st9 st12 st17">United Kingdom are high because they are seeking a better quality</tspan><tspan x="0" y="24" class="st9 st12 st17">life which includes opportunites for employment, better security,</tspan><tspan x="0" y="36" class="st9 st12 st17">education and much more. </tspan></text>
-<rect y="114.7" class="st67" width="529.3" height="361.9"/>
+<text transform="matrix(1 0 0 1 915.3607 464.2346)" class="st9 st12 st17">Jamaican migration to Canada, the United States of America, and the</text>
+<text transform="matrix(1 0 0 1 915.3607 476.2346)" class="st9 st12 st17">United Kingdom are high because they are seeking a better quality</text>
+<text transform="matrix(1 0 0 1 915.3607 488.2346)" class="st9 st12 st17">life which includes opportunites for employment, better security,</text>
+<text transform="matrix(1 0 0 1 915.3607 500.2346)" class="st9 st12 st17">education and much more. </text>
+<rect y="114.7" class="st68" width="529.3" height="361.9"/>
 <g id="Aexdje_1_">
 	
-		<image style="overflow:visible;" width="565" height="280" xlink:href="C2C5FADDF5E18C85.png"  transform="matrix(0.9184 0 0 0.9198 4.8877 223.8343)">
+		<image style="overflow:visible;enable-background:new    ;" width="563" height="281" xlink:href="C2C5FADDF5E18C85.png"  transform="matrix(0.9204 0 0 0.9218 5.2533 223.0981)">
 	</image>
 </g>
-<image style="overflow:visible;" width="580" height="386" xlink:href="C2C5FADDF5E18C87.png"  transform="matrix(0.2208 0 0 0.2208 6.178 121.734)">
+<image style="overflow:visible;enable-background:new    ;" width="584" height="389" xlink:href="C2C5FADDF5E18C87.png"  transform="matrix(0.2192 0 0 0.2192 6.1951 121.7083)">
 </image>
-<rect x="6.2" y="121.7" class="st68" width="128.1" height="85.2"/>
+<rect x="6.2" y="121.7" class="st69" width="128.1" height="85.2"/>
 <text transform="matrix(1 0 0 1 64.5737 652.2363)" class="st10 st31">13,347</text>
 <text transform="matrix(1 0 0 1 487.9722 601.0479)" class="st10 st31">21,783</text>
 <text transform="matrix(1 0 0 1 62.9607 711.2705)" class="st10 st31">4,500</text>
 <text transform="matrix(1 0 0 1 490.1938 711.2705)" class="st10 st31">4,635</text>
 <text transform="matrix(1 0 0 1 39.4775 735.9897)" class="st10 st31">1,983</text>
-<path class="st69" d="M423.5,400.8c1.5-3.1,1.5-3.1,1.5-3.1l0.6-5l-2.1-3.9h5l-2.5-5.4l5.2-3.5l-3.9-7l3.9-2.3v-7.2h6.6l7,2.9
+<path class="st70" d="M423.5,400.8c1.5-3.1,1.5-3.1,1.5-3.1l0.6-5l-2.1-3.9h5l-2.5-5.4l5.2-3.5l-3.9-7l3.9-2.3v-7.2h6.6l7,2.9
 	l3.9,0.4l4.6,2.7h4.6l6.6,4.3l7,1.2h7.7h4.3l4.4,0.4l7.2,0.8h6.2l9.3,3.9h5h4.6h3.4"/>
-<text transform="matrix(1 0 0 1 434.1267 399.1832)" class="st70 st10 st31">Saint Thomas</text>
-<path class="st69" d="M423.5,313.4l-12.7,39.2l2.2,2.2c0,0,4.6,9.1,11.5,6.9c2.4,1.8,6.8,1.8,6.8,1.8"/>
-<text transform="matrix(1 0 0 1 428.3971 351.2379)" class="st70 st10 st31">Portland</text>
-<path class="st69" d="M374.7,389.8c-0.8-5.4-4.2-14.5-5.9-15.7c-1.8-1.2-3.7-1.3-4.6-2.9c-0.8-1.5-0.1-3.3,0.7-5.2
+<text transform="matrix(1 0 0 1 434.1267 399.1832)" class="st71 st10 st31">Saint Thomas</text>
+<text transform="matrix(1 0 0 1 434.1267 399.1832)" class="st72 st10 st31">Saint Thomas</text>
+<path class="st70" d="M423.5,313.4l-12.7,39.2l2.2,2.2c0,0,4.6,9.1,11.5,6.9c2.4,1.8,6.8,1.8,6.8,1.8"/>
+<text transform="matrix(1 0 0 1 428.3971 351.2379)" class="st71 st10 st31">Portland</text>
+<text transform="matrix(1 0 0 1 428.3971 351.2379)" class="st72 st10 st31">Portland</text>
+<path class="st70" d="M374.7,389.8c-0.8-5.4-4.2-14.5-5.9-15.7c-1.8-1.2-3.7-1.3-4.6-2.9c-0.8-1.5-0.1-3.3,0.7-5.2
 	c1.8-4.6,4.5-6.3,3.9-7.5c-0.7-1.3-4.3-0.3-4.6-1.3c-0.2-0.8,2-1.4,3.6-3.9c0.9-1.5,1.1-3,1.3-4.2c0.5-3.4-1-5-0.3-5.5
 	c1.5-1.3,9.5,7.5,13,5.5c1.2-0.7,1.1-2.2,2.6-2.6c2.2-0.6,4.5,2,4.9,1.6c0.6-0.6-3.8-5.5-3.3-6.2c0.4-0.5,3.9,4.3,10.4,6.5
 	c2.8,0.9,4.2,0.7,9.1,2.3c2.2,0.7,4,1.4,5.2,1.9"/>
-<text transform="matrix(1 0 0 1 372.3361 374.9316)" class="st70 st10 st31">Kingston</text>
-<path class="st69" d="M302.1,412.3c-2.8-5.1-2.9-8.8-2.4-11.4c0.5-2.6,1.6-3.9,1.4-6.2c-0.3-3.8-3.7-4.5-5.7-7.6
-	c-5-7.8,5.9-17.8,1-25.7c-2-3.2-5.5-4.2-6.2-8.6c-0.1-0.9-0.4-3,0.5-5.2c1.1-2.7,3.1-3.4,2.9-4.8c-0.3-1.7-3.2-1.1-5.2-3.3
-	c-2-2.2-0.8-4.4-1.9-10.9c-0.9-5.1-1.8-4.9-1.4-6.2c2-6.7,25.3-5.6,47.5-8.1c2.7-0.3,4-0.5,5.7-1c8.8-2.3,13-7.7,15.2-6.2
-	c0.8,0.6,0.2,1.4,1.4,4.8c0.9,2.6,1.7,4.8,3.3,5.2c1.8,0.5,2.7-1.9,5.2-1.9c2.4,0,4.9,2.1,5.2,4.3c0.3,1.8-1.3,2.3-1.4,4.8
-	c-0.1,1.6,0.5,1.7,1.9,5.7c1.1,3.3,1.9,6.7,1.9,6.7l0,0c0,0-1.7,6-1.7,6l0,0c0,0,0,0.3-0.1,0.6"/>
-<path class="st71" d="M313.7,258.4c6.5,9.4,6.5,13.5,5.2,15.5c-0.9,1.3-2.7,2.3-2.4,3.6c0.4,1.5,3.5,1.1,4.4,3.2
-	c0.6,1.4,0,3.5-0.2,3.8c0,0-0.2,0.5-0.2,0.5c1.2,1.5,2.4,2.9,3.6,4.4c2.1-0.1,4,1,4.8,2.8c0.7,1.7-0.1,3.5-0.4,4.4
-	c0,0-0.8,5.5,6.3,15.7c0.3,0.4,0.6,0.8,0.6,0.8c0.1,0.1,0.2,0.2,0.3,0.3c0.2,0.2,0.6,0.4,0.7,0.5"/>
-<text transform="matrix(1 0 0 1 304.2544 356.0302)"><tspan x="0" y="0" class="st70 st10 st31">Saint</tspan><tspan x="0" y="14.4" class="st70 st10 st31">Catherine</tspan></text>
-<text transform="matrix(1 0 0 1 339.6015 284.4139)"><tspan x="0" y="0" class="st70 st10 st31">Saint </tspan><tspan x="0" y="14.4" class="st70 st10 st31">Mary</tspan></text>
-<path class="st69" d="M216.4,422.1c5,0,9.9-0.5,11.3-4.3c0.3-1,2.9-10.9,3.8-6.8c0.4,2.2,1.9-5.3,1.3-10.4c-0.1-0.7,0.2-5.4,3.6-8.1
+<text transform="matrix(1 0 0 1 372.3361 374.9316)" class="st71 st10 st31">Kingston</text>
+<text transform="matrix(1 0 0 1 372.3361 374.9316)" class="st72 st10 st31">Kingston</text>
+<path class="st70" d="M302.1,412.3c-2.8-5.1-2.9-8.8-2.4-11.4s1.6-3.9,1.4-6.2c-0.3-3.8-3.7-4.5-5.7-7.6c-5-7.8,5.9-17.8,1-25.7
+	c-2-3.2-5.5-4.2-6.2-8.6c-0.1-0.9-0.4-3,0.5-5.2c1.1-2.7,3.1-3.4,2.9-4.8c-0.3-1.7-3.2-1.1-5.2-3.3c-2-2.2-0.8-4.4-1.9-10.9
+	c-0.9-5.1-1.8-4.9-1.4-6.2c2-6.7,25.3-5.6,47.5-8.1c2.7-0.3,4-0.5,5.7-1c8.8-2.3,13-7.7,15.2-6.2c0.8,0.6,0.2,1.4,1.4,4.8
+	c0.9,2.6,1.7,4.8,3.3,5.2c1.8,0.5,2.7-1.9,5.2-1.9c2.4,0,4.9,2.1,5.2,4.3c0.3,1.8-1.3,2.3-1.4,4.8c-0.1,1.6,0.5,1.7,1.9,5.7
+	c1.1,3.3,1.9,6.7,1.9,6.7l0,0l-1.7,6l0,0c0,0,0,0.3-0.1,0.6"/>
+<path class="st73" d="M313.7,258.4c6.5,9.4,6.5,13.5,5.2,15.5c-0.9,1.3-2.7,2.3-2.4,3.6c0.4,1.5,3.5,1.1,4.4,3.2
+	c0.6,1.4,0,3.5-0.2,3.8l-0.2,0.5c1.2,1.5,2.4,2.9,3.6,4.4c2.1-0.1,4,1,4.8,2.8c0.7,1.7-0.1,3.5-0.4,4.4c0,0-0.8,5.5,6.3,15.7
+	c0.3,0.4,0.6,0.8,0.6,0.8c0.1,0.1,0.2,0.2,0.3,0.3c0.2,0.2,0.6,0.4,0.7,0.5"/>
+<text transform="matrix(1 0 0 1 304.2544 356.0302)" class="st71 st10 st31">Saint</text>
+<text transform="matrix(1 0 0 1 304.2544 356.0302)" class="st72 st10 st31">Saint</text>
+<text transform="matrix(1 0 0 1 304.2544 370.4302)" class="st71 st10 st31">Catherine</text>
+<text transform="matrix(1 0 0 1 304.2544 370.4302)" class="st72 st10 st31">Catherine</text>
+<text transform="matrix(1 0 0 1 339.6015 284.4139)" class="st71 st10 st31">Saint </text>
+<text transform="matrix(1 0 0 1 339.6015 284.4139)" class="st72 st10 st31">Saint </text>
+<text transform="matrix(1 0 0 1 339.6015 298.8139)" class="st71 st10 st31">Mary</text>
+<text transform="matrix(1 0 0 1 339.6015 298.8139)" class="st72 st10 st31">Mary</text>
+<path class="st70" d="M216.4,422.1c5,0,9.9-0.5,11.3-4.3c0.3-1,2.9-10.9,3.8-6.8c0.4,2.2,1.9-5.3,1.3-10.4c-0.1-0.7,0.2-5.4,3.6-8.1
 	c2.2-1.8-0.2-17.2-0.4-16.6c-0.8,2.3-3.4-10.5-23.2-48"/>
-<text transform="matrix(1 0 0 1 236.0721 371.5282)" class="st70 st10 st31">Clarendon</text>
-<path class="st69" d="M212.8,238.2c-1.9,3.8-1.1,8,1.6,9.9c1.9,1.5,3.9-0.3,5.8,1c2.7,2.1,0.1,7.1,2.1,14.7c0.7,2.8,1.8,4.5,2.1,5.2
+<text transform="matrix(1 0 0 1 236.0721 371.5282)" class="st71 st10 st31">Clarendon</text>
+<text transform="matrix(1 0 0 1 236.0721 371.5282)" class="st72 st10 st31">Clarendon</text>
+<path class="st70" d="M212.8,238.2c-1.9,3.8-1.1,8,1.6,9.9c1.9,1.5,3.9-0.3,5.8,1c2.7,2.1,0.1,7.1,2.1,14.7c0.7,2.8,1.8,4.5,2.1,5.2
 	c2.3,4.9,1.4,19.7-11.6,58.8"/>
-<text transform="matrix(1 0 0 1 238.061 286.1503)" class="st70 st10 st31">Saint Ann</text>
-<path class="st69" d="M189,419l-20.5-81.4c-2.3-7.8-2.4-14.2,0-15.9c1.6-1.1,2.8-0.9,2.8-0.9c1.7,0.3,2,1.9,3.4,2
+<text transform="matrix(1 0 0 1 238.061 286.1503)" class="st71 st10 st31">Saint Ann</text>
+<text transform="matrix(1 0 0 1 238.061 286.1503)" class="st72 st10 st31">Saint Ann</text>
+<path class="st70" d="M189,419l-20.5-81.4c-2.3-7.8-2.4-14.2,0-15.9c1.6-1.1,2.8-0.9,2.8-0.9c1.7,0.3,2,1.9,3.4,2
 	c1.5,0.1,1.7-1.8,3.4-2c1.6-0.2,2,1.4,4.6,2c1.4,0.3,1.2-0.2,4.6,0c0.2,0,0.4,0,3.4,0.3l0,0c0.8,0.5,1.9,1.1,3.4,1.4
 	c2,0.4,2.9,0,4.8,0c2.8,0,2.8,1,8,2.3c1.8,0.5,1.6,0.3,5.2,1c6.3,1.3,5.7,1.6,6.9,1.6c5.1,0,5.6-5.1,12.7-6.8
 	c0.7-0.2,3.2-0.7,6.4-0.4c2.7,0.3,4.2,1,6.4,1.7c4.1,1.3,10.4,3.4,15.7,1.3c3.4-1.3,4.7-3.7,6.4-3c2,0.8,1.2,4.5,3,5.1
-	c1.8,0.6,2.8-3,7.6-4.7c1.4-0.5,4.2-1.1,7.4-0.8c0.2,0,0.4,0,0.5,0.1"/>
-<text transform="matrix(1 0 0 1 171.7725 382.1006)" class="st70 st10 st31">Manchester</text>
-<path class="st69" d="M107.3,369.9l5.9-22.5l-8.9-5.5c0,0,2-7.6,10.8-11.4c4.4-5.3,27.6-16.6,27.6-16.6l25.8,7.8"/>
-<text transform="matrix(1 0 0 1 115.3344 346.0834)"><tspan x="0" y="0" class="st70 st10 st31">Saint </tspan><tspan x="0" y="14.4" class="st70 st10 st31">Elizabeth</tspan></text>
-<line class="st69" x1="147" y1="230.3" x2="142.8" y2="313.9"/>
-<text transform="matrix(1 0 0 1 157.6689 279.5508)" class="st70 st10 st31">Trelawny</text>
+	s2.8-3,7.6-4.7c1.4-0.5,4.2-1.1,7.4-0.8c0.2,0,0.4,0,0.5,0.1"/>
+<text transform="matrix(1 0 0 1 171.7725 382.1006)" class="st71 st10 st31">Manchester</text>
+<text transform="matrix(1 0 0 1 171.7725 382.1006)" class="st72 st10 st31">Manchester</text>
+<path class="st70" d="M107.3,369.9l5.9-22.5l-8.9-5.5c0,0,2-7.6,10.8-11.4c4.4-5.3,27.6-16.6,27.6-16.6l25.8,7.8"/>
+<text transform="matrix(1 0 0 1 115.3344 346.0834)" class="st71 st10 st31">Saint </text>
+<text transform="matrix(1 0 0 1 115.3344 346.0834)" class="st72 st10 st31">Saint </text>
+<text transform="matrix(1 0 0 1 115.3344 360.4834)" class="st71 st10 st31">Elizabeth</text>
+<text transform="matrix(1 0 0 1 115.3344 360.4834)" class="st72 st10 st31">Elizabeth</text>
+<line class="st70" x1="147" y1="230.3" x2="142.8" y2="313.9"/>
+<text transform="matrix(1 0 0 1 157.6689 279.5508)" class="st71 st10 st31">Trelawny</text>
+<text transform="matrix(1 0 0 1 157.6689 279.5508)" class="st72 st10 st31">Trelawny</text>
 <path class="st72" d="M85.2,246.4c1.2,6.4,1.2,11.6,1,15.1c-0.3,5.1-1.1,6.5,0,9.1c2.3,5.4,9.5,8.7,10.1,9.1c0.5,5,1.3,9.1,2,12.1
 	c1.5,6.5,4,14.1,4,14.1l0,0c2,4.4,4,8.7,6,13.1l0,0c-2,2.3-2.1,3.7-1.8,4.5c0.5,1.6,2.5,1.7,4.5,4.1c1,1.2,1.8,2.5,1.8,2.5
 	c0.2,0.4,0.6,0.9,0.7,1.1"/>
-<text transform="matrix(1 0 0 1 100.7325 267.3697)"><tspan x="0" y="0" class="st70 st10 st31">Saint </tspan><tspan x="0" y="14.4" class="st70 st10 st31">James</tspan></text>
-<polyline class="st69" points="7.3,288.8 24.4,288.8 29.1,283.1 62.8,283.1 76.3,291.1 98.3,291.8 "/>
-<text transform="matrix(1 0 0 1 28.5596 272.0916)" class="st70 st10 st31">Hanover</text>
-<text transform="matrix(1 0 0 1 14.8091 306.9687)" class="st70 st10 st31">Westmoreland</text>
+<text transform="matrix(1 0 0 1 100.7325 267.3697)" class="st71 st10 st31">Saint </text>
+<text transform="matrix(1 0 0 1 100.7325 267.3697)" class="st72 st10 st31">Saint </text>
+<text transform="matrix(1 0 0 1 100.7325 281.7697)" class="st71 st10 st31">James</text>
+<text transform="matrix(1 0 0 1 100.7325 281.7697)" class="st72 st10 st31">James</text>
+<polyline class="st70" points="7.3,288.8 24.4,288.8 29.1,283.1 62.8,283.1 76.3,291.1 98.3,291.8 "/>
+<text transform="matrix(1 0 0 1 28.5596 272.0916)" class="st71 st10 st31">Hanover</text>
+<text transform="matrix(1 0 0 1 28.5596 272.0916)" class="st72 st10 st31">Hanover</text>
+<text transform="matrix(1 0 0 1 14.8091 306.9687)" class="st71 st10 st31">Westmoreland</text>
+<text transform="matrix(1 0 0 1 14.8091 306.9687)" class="st72 st10 st31">Westmoreland</text>
 <g>
-	<line x1="784.8" y1="523.5" x2="784.8" y2="550.7"/>
+	<line class="st66" x1="784.8" y1="523.5" x2="784.8" y2="550.7"/>
 	<g>
 		<line class="st0" x1="784.8" y1="523.5" x2="784.8" y2="524.5"/>
-		<line class="st66" x1="784.8" y1="526.5" x2="784.8" y2="548.7"/>
+		<line class="st67" x1="784.8" y1="526.5" x2="784.8" y2="548.7"/>
 		<line class="st0" x1="784.8" y1="549.7" x2="784.8" y2="550.7"/>
 	</g>
 </g>
 <g>
-	<line x1="829.2" y1="536.6" x2="829.2" y2="558.6"/>
+	<line class="st66" x1="829.2" y1="536.6" x2="829.2" y2="558.6"/>
 	<g>
 		<line class="st0" x1="829.2" y1="536.6" x2="829.2" y2="537.6"/>
-		<line class="st73" x1="829.2" y1="539.4" x2="829.2" y2="556.7"/>
+		<line class="st74" x1="829.2" y1="539.4" x2="829.2" y2="556.7"/>
 		<line class="st0" x1="829.2" y1="557.6" x2="829.2" y2="558.6"/>
 	</g>
 </g>
 <g>
-	<line x1="790.5" y1="740.4" x2="790.5" y2="765.4"/>
+	<line class="st66" x1="790.5" y1="740.4" x2="790.5" y2="765.4"/>
 	<g>
 		<line class="st0" x1="790.5" y1="740.4" x2="790.5" y2="741.4"/>
-		<line class="st74" x1="790.5" y1="743.5" x2="790.5" y2="763.4"/>
+		<line class="st75" x1="790.5" y1="743.5" x2="790.5" y2="763.4"/>
 		<line class="st0" x1="790.5" y1="764.4" x2="790.5" y2="765.4"/>
 	</g>
 </g>
 <g>
-	<line x1="678.1" y1="672.4" x2="678.1" y2="693.8"/>
+	<line class="st66" x1="678.1" y1="672.4" x2="678.1" y2="693.8"/>
 	<g>
 		<line class="st0" x1="678.1" y1="672.4" x2="678.1" y2="673.4"/>
-		<line class="st75" x1="678.1" y1="675.5" x2="678.1" y2="691.7"/>
+		<line class="st76" x1="678.1" y1="675.5" x2="678.1" y2="691.7"/>
 		<line class="st0" x1="678.1" y1="692.8" x2="678.1" y2="693.8"/>
 	</g>
 </g>
 <g>
-	<line x1="598.1" y1="189.6" x2="598.1" y2="207.4"/>
+	<line class="st66" x1="598.1" y1="189.6" x2="598.1" y2="207.4"/>
 	<g>
 		<line class="st0" x1="598.1" y1="189.6" x2="598.1" y2="190.6"/>
-		<line class="st76" x1="598.1" y1="192.9" x2="598.1" y2="205.3"/>
+		<line class="st77" x1="598.1" y1="192.9" x2="598.1" y2="205.3"/>
 		<line class="st0" x1="598.1" y1="206.4" x2="598.1" y2="207.4"/>
 	</g>
 </g>
 <g>
-	<line x1="826.5" y1="267.4" x2="826.5" y2="285.2"/>
+	<line class="st66" x1="826.5" y1="267.4" x2="826.5" y2="285.2"/>
 	<g>
 		<line class="st0" x1="826.5" y1="267.4" x2="826.5" y2="268.4"/>
-		<line class="st76" x1="826.5" y1="270.6" x2="826.5" y2="283.1"/>
+		<line class="st77" x1="826.5" y1="270.6" x2="826.5" y2="283.1"/>
 		<line class="st0" x1="826.5" y1="284.2" x2="826.5" y2="285.2"/>
 	</g>
 </g>
-<path class="st9" d="M75.9,668.6L75.9,668.6c-3.2,0-5.8-2.6-5.8-5.8l0,0c0-3.2,2.6-5.8,5.8-5.8h0c3.2,0,5.8,2.6,5.8,5.8l0,0
+<path class="st9" d="M75.9,668.6L75.9,668.6c-3.2,0-5.8-2.6-5.8-5.8l0,0c0-3.2,2.6-5.8,5.8-5.8l0,0c3.2,0,5.8,2.6,5.8,5.8l0,0
 	C81.7,666,79.1,668.6,75.9,668.6z"/>
-<path class="st9" d="M505.8,614.8L505.8,614.8c-3.2,0-5.8-2.6-5.8-5.8l0,0c0-3.2,2.6-5.8,5.8-5.8h0c3.2,0,5.8,2.6,5.8,5.8l0,0
+<path class="st9" d="M505.8,614.8L505.8,614.8c-3.2,0-5.8-2.6-5.8-5.8l0,0c0-3.2,2.6-5.8,5.8-5.8l0,0c3.2,0,5.8,2.6,5.8,5.8l0,0
 	C511.6,612.1,509,614.8,505.8,614.8z"/>
-<path class="st29" d="M505.8,724.7L505.8,724.7c-3.2,0-5.8-2.6-5.8-5.8l0,0c0-3.2,2.6-5.8,5.8-5.8h0c3.2,0,5.8,2.6,5.8,5.8l0,0
+<path class="st29" d="M505.8,724.7L505.8,724.7c-3.2,0-5.8-2.6-5.8-5.8l0,0c0-3.2,2.6-5.8,5.8-5.8l0,0c3.2,0,5.8,2.6,5.8,5.8l0,0
 	C511.6,722,509,724.7,505.8,724.7z"/>
-<path class="st29" d="M75.9,725.1L75.9,725.1c-3.2,0-5.8-2.6-5.8-5.8l0,0c0-3.2,2.6-5.8,5.8-5.8h0c3.2,0,5.8,2.6,5.8,5.8l0,0
+<path class="st29" d="M75.9,725.1L75.9,725.1c-3.2,0-5.8-2.6-5.8-5.8l0,0c0-3.2,2.6-5.8,5.8-5.8l0,0c3.2,0,5.8,2.6,5.8,5.8l0,0
 	C81.7,722.5,79.1,725.1,75.9,725.1z"/>
-<path class="st27" d="M75.9,741L75.9,741c-3.2,0-5.8-2.6-5.8-5.8l0,0c0-3.2,2.6-5.8,5.8-5.8h0c3.2,0,5.8,2.6,5.8,5.8l0,0
+<path class="st27" d="M75.9,741L75.9,741c-3.2,0-5.8-2.6-5.8-5.8l0,0c0-3.2,2.6-5.8,5.8-5.8l0,0c3.2,0,5.8,2.6,5.8,5.8l0,0
 	C81.7,738.4,79.1,741,75.9,741z"/>
-<path class="st27" d="M505.8,741L505.8,741c-3.2,0-5.8-2.6-5.8-5.8l0,0c0-3.2,2.6-5.8,5.8-5.8h0c3.2,0,5.8,2.6,5.8,5.8l0,0
+<path class="st27" d="M505.8,741L505.8,741c-3.2,0-5.8-2.6-5.8-5.8l0,0c0-3.2,2.6-5.8,5.8-5.8l0,0c3.2,0,5.8,2.6,5.8,5.8l0,0
 	C511.6,738.4,509,741,505.8,741z"/>
 <text transform="matrix(1 0 0 1 499.9488 734.5214)" class="st10 st31">2,430</text>
+<text transform="matrix(1 0 0 1 136.3996 137.4015)"><tspan x="0" y="0" class="st9 st12 st31">Jamaica migrants are predominantly of productive and reproductive age.</tspan><tspan x="0" y="14.4" class="st9 st12 st31">Jamaica has a high migration rate, with many jamaicans seeking better </tspan><tspan x="0" y="28.8" class="st9 st12 st31">economic opportunities. Young Jamaicans have placed, poverty, </tspan><tspan x="0" y="43.2" class="st9 st12 st31">unemployment and lack of  vocational schools as their major concern and </tspan><tspan x="0" y="57.6" class="st9 st12 st31">reason for migrating. Migration remains a fact of life in Jamaica.</tspan></text>
 </svg>
