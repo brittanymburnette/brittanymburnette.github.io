@@ -5,12 +5,6 @@
   max-width: 960px;
   margin: auto; 
   display: grid;
-  grid-template-areas: "header header header"
-                       "left main main"
-			                 "work work work"
-                       "footer footer footer";
-  grid-template-rows: 1fr 2fr;
-  grid-template-columns: 1fr 2fr 1fr;
 }
 
 }
@@ -97,20 +91,4 @@ p {
 
 .awards {
   list-style: none;
-}
-
-.contact {
-  border:none;
-  text-align: center;
-  margin-top: 70px;
-  padding-top: 15px;
-  padding-bottom: 10px;
-  margin-left: 15px;
-  background-color: #FFF0F5;
-  background: #FFF0F5;
-  grid-area: footer;
-  clear: both;
-  text-color: gray;
-  color: gray;
-  font-size: 10px;
 }
