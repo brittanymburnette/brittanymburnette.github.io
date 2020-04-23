@@ -92,10 +92,17 @@ p {
 }
 
 .contact {
-border:none;
-text-align: center;
-margin-top: 70px;
-padding-top: 15px;
-padding-bottom: 10px;
-margin-left: 15px;
+  border:none;
+  text-align: center;
+  margin-top: 70px;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  margin-left: 15px;
+  background-color: #FFF0F5;
+  background: #FFF0F5;
+  grid-area: footer;
+  clear: both;
+  text-color: gray;
+  color: gray;
+  font-size: 10px;
 }
