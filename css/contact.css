@@ -1,46 +1,4 @@
 body {
-font-family:'Great Vibes', sans-serif;
-font-size: 28px;
-}
-
-.container {
-   height: 90vh;
-   width: 1900px;
-   margin: 2rem auto;
-   display: grid;
-   grid-template-areas: "header header header"
-                        "main main main"
-			                  "work work work"
-                        "footer footer footer";
-   grid-template-rows: 1fr 2fr;
-   grid-template-columns: 1fr 2fr 1fr;
-}
-
-.header {
-  background: #FFF0F5;
-  grid-area: header;
-  margin-bottom: -1px;
-  margin-top: -9px;
-  color: white;
-  text-align: center;
-  padding: 5px;
-}
-
-.header h1 {
-font-family: 'Great Vibes', cursive;
-font-size: 5em;
-margin-bottom: -50px;
-margin-top: -11px;
-}
-
-.photo{
-padding:100px;
-text-color: #222;
-list-style-type: circle;
-text-align: center;
-}
-
-body {
   margin: 40px;
 }
 
@@ -91,9 +49,13 @@ nav li {
   text-align: center;
 }
 
-.content {
+h1 {
   background-color: #FFF0F5;;
   color: gray;
+  text-align: center;
+  font-family: 'Great Vibes', cursive;
+  font-size: 50px;
 }
+
 
 
