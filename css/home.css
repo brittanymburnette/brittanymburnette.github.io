@@ -1,10 +1,18 @@
 .wrapper {
   border: 5px solid #FFF0F5;
-  display: grid;
   grid-gap: none;
   background-color: #FFF0F5;
   max-width: 960px;
   margin: auto; 
+  display: grid;
+  grid-template-areas: "header header header"
+                       "left main main"
+			                 "work work work"
+                       "footer footer footer";
+  grid-template-rows: 1fr 2fr;
+  grid-template-columns: 1fr 2fr 1fr;
+}
+
 }
 
 .wrapper-item {
