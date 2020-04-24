@@ -96,3 +96,7 @@ p {
 a:link {
   text-decoration: none;
 }
+
+ul.none-bullets {
+  list-style-type: none;
+}
