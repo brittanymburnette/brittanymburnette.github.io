@@ -122,3 +122,7 @@ hr {
     padding: 0;
     margin-top: -1em;
 }
+
+.wrapper-item photo {
+ position: relative;
+}
