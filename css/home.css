@@ -87,21 +87,10 @@ p {
 
 .skills {
   list-style: none;
-  background-color: black;
-  color: white;
-  width: 300px;
-  border: 15px solid black;
-  padding: 50px;
-  margin: 20px;
 }
 
 .awards {
   list-style: none;
-  background-color: plum;
-  width: 300px;
-  border: 15px solid plum;
-  padding: 50px;
-  margin: 20px;
 }
 
 a:link {
