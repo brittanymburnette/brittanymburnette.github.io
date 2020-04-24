@@ -63,3 +63,7 @@ h1 {
   font-family: 'Great Vibes', cursive;
   font-size: 50px;
 }
+
+a:link {
+  text-decoration: none;
+}
