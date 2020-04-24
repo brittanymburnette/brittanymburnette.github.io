@@ -92,3 +92,7 @@ p {
 .awards {
   list-style: none;
 }
+
+a:link {
+  text-decoration: none;
+}
