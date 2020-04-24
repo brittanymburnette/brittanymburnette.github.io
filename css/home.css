@@ -101,6 +101,7 @@ ul {
   border: 15px solid lightpink;
   padding: 50px;
   margin: 20px;
+  font-family: 'Raleway', sans-serif;
 }
 
 #awards {
@@ -109,4 +110,5 @@ ul {
   border: 15px solid gainsboro;
   padding: 50px;
   margin: 20px;
+  font-family: 'Raleway', sans-serif;
 }
