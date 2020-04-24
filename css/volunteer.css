@@ -64,3 +64,8 @@ h1 {
   font-family: 'Great Vibes', cursive;
   font-size: 50px;
 }
+
+h3 {
+  text-decoration: none;
+  text-color: black;
+}
