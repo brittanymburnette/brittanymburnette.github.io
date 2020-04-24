@@ -105,9 +105,9 @@ ul {
 }
 
 #awards {
-  background-color: gainsboro;
+  background-color: lightgrey;
   width: 300px;
-  border: 15px solid gainsboro;
+  border: 15px solid lightpink;
   padding: 50px;
   margin: 20px;
   font-family: 'Raleway', sans-serif;
