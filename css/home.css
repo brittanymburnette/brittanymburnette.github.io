@@ -83,6 +83,11 @@ p {
   display: grid;
   grid-template-columns: 50% 50%;
   list-style: none;
+  background-color: plum;
+  width: 300px;
+  border: 15px solid plum;
+  padding: 50px;
+  margin: 20px;
 }
 
 .skills {
