@@ -96,17 +96,17 @@ ul {
 }
 
 #skills {
-  background-color: plum;
+  background-color: lightgrey;
   width: 300px;
-  border: 15px solid plum;
+  border: 15px solid lightpink;
   padding: 50px;
   margin: 20px;
 }
 
 #awards {
-  background-color: plum;
+  background-color: gainsboro;
   width: 300px;
-  border: 15px solid plum;
+  border: 15px solid gainsboro;
   padding: 50px;
   margin: 20px;
 }
