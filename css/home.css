@@ -87,10 +87,13 @@ p {
 
 .skills {
   list-style: none;
+  background-color: black;
+  color: white;
 }
 
 .awards {
   list-style: none;
+  background-color: plum;
 }
 
 a:link {
