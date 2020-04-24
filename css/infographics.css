@@ -67,3 +67,12 @@ h1 {
 a:link {
   text-decoration: none;
 }
+
+.line {
+  width: 53px;
+  height: 0;
+  border: 1px solid #lightgrey;
+  margin: 3px;
+  display:inline-block;
+}
+
