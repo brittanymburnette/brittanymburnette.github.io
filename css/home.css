@@ -112,3 +112,12 @@ ul {
   margin: 20px;
   font-family: 'Raleway', sans-serif;
 }
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 15px solid lightpink;
+    margin: 1em 0;
+    padding: 0;
+}
