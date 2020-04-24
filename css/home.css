@@ -85,14 +85,6 @@ p {
   list-style: none;
 }
 
-.skills {
-  list-style: none;
-}
-
-.awards {
-  list-style: none;
-}
-
 a:link {
   text-decoration: none;
 }
@@ -101,4 +93,20 @@ ul {
   list-style-type: none;
   padding: 0;
   margin: 0;
+}
+
+#skills {
+  background-color: plum;
+  width: 300px;
+  border: 15px solid plum;
+  padding: 50px;
+  margin: 20px;
+}
+
+#awards {
+  background-color: plum;
+  width: 300px;
+  border: 15px solid plum;
+  padding: 50px;
+  margin: 20px;
 }
