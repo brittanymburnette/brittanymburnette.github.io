@@ -77,3 +77,14 @@ a:link {
   margin: 20px;
   font-family: 'Raleway', sans-serif;
 }
+
+#layout2 {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid lightpink;
+  padding: 50px;
+  margin: 20px;
+  font-family: 'Raleway', sans-serif;
+}
+
+
