@@ -72,12 +72,3 @@ a:link {
   text-decoration: none;
 }
 
-.box a {
-  background-color: lightgrey;
-  width: 300px;
-  border: 15px solid lightpink;
-  padding: 50px;
-  margin: 20px;
-  font-family: 'Raleway', sans-serif;
-}
-  
