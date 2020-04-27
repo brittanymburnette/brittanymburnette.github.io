@@ -11,47 +11,47 @@
   </head>
 	
   <body>
-<div class="wrapper">
-   <div class="wrapper-item header">
-   <div clas="wrapper-item nav">
-     <nav>
-       <ul>
-	 <li><a href="index.html">Home</a></li>
-	 <li><a href="article.html">Articles</a></li>
-	 <li><a href="infographics.html">Infographics</a></li>
-	 <li><a href="volunteer.html">Volunteer Work</a></li>
-	 <li><a href="contact.html">Contact</a></li>
-       </ul>
-    </nav>
-      <h1>Brittany Burnette</h1>
-	   <div class="box sidebar"><img src="brittcontact.jpg" alt="pic"></div>
-	   <footer>
-<div id="footer">
-<h3><em>CONTACT ME</em></h3>
-<p>Cell phone: 786-223-5625</p>
-<p>Address: 5445 NW 27th ct Margate, FL 33063</p>
-<p>Email: bburnette002@gmail.com</p>
-<p><a href="https://saycreatively.art.blog">Data Visualization and Infographics blog</a></p>
-</div>		
-
-<h3>Contact Me</h3>
-
-<div class="form">
-  <form action="/action_page.php">
-    <label for="fname">First Name</label>
-    <input type="text" id="fname" name="firstname" placeholder="Your name..">
-
-    <label for="lname">Last Name</label>
-    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
-
-    <label for="subject">Subject</label>
-    <textarea id="subject" name="subject" placeholder="Message" style="height:200px"></textarea>
-
-    <input type="submit" value="Submit">
-  </form>
+<div class="container">
+  <div class="row header">
+    <h1>CONTACT ME &nbsp;</h1>
+    <h3>Get in touch with me!</h3>
+  </div>
+  <div class="row body">
+    <form action="#">
+      <ul>
+        
+        <li>
+          <p class="left">
+            <label for="first_name">first name</label>
+            <input type="text" name="first_name" placeholder="John" />
+          </p>
+          <p class="pull-right">
+            <label for="last_name">last name</label>
+            <input type="text" name="last_name" placeholder="Smith" />      
+          </p>
+        </li>
+        
+        <li>
+          <p>
+            <label for="email">email <span class="req">*</span></label>
+            <input type="email" name="email" placeholder="bburnette@gmail.com" />
+          </p>
+        </li>        
+        <li><div class="divider"></div></li>
+        <li>
+          <label for="comments">comments</label>
+          <textarea cols="46" rows="3" name="Message"></textarea>
+        </li>
+        
+        <li>
+          <input class="btn btn-submit" type="submit" value="Submit" />
+          <small>or press <strong>enter</strong></small>
+        </li>
+        
+      </ul>
+    </form>  
+  </div>
 </div>
-		   
- </div>
 	 
   </body>
 		
