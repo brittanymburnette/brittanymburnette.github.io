@@ -119,13 +119,10 @@ ul {
 
 hr:after {
     display: block;
-    display: flex;
-    height: 1px;
     border: 0;
     border-top: 3px solid black;
     margin: 0;
     padding: 0;
-    margin-top: -1em;
     background: url("portrait4.png") no-repeat top center;
     content: "";
     height: 18px; /* height of the ornament */
