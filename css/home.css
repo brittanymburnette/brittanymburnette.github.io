@@ -131,6 +131,7 @@ hr:after {
     height: 18px; /* height of the ornament */
     position: relative;
     top: -9px; /* half the height of the ornament */
+    color: black;
 }
 }
 
