@@ -1,3 +1,62 @@
+body {
+  margin: 40px;
+}
+
+.sidebar {
+  grid-area: sidebar;
+}
+
+.content {
+  grid-area: content;
+}
+
+.header {
+  grid-area: header;
+}
+
+.wrapper {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: 120px  120px  120px;
+  grid-template-areas:
+     "....... header  header"
+                    "sidebar content content";
+  background-color: #FFF0F5;
+  color: gray;
+}
+
+.box {
+  background-color: #FFF0F5;
+  color: #fff;
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 150%;
+}
+
+.header {
+  background-color: #FFF0F5;
+}
+
+nav ul {
+  background-color: #FFF0F5;
+  padding-left: 0;
+  list-style: none;
+}
+
+nav li {
+  display: inline;
+  margin-right: 20px;
+  text-align: center;
+}
+
+h1 {
+  background-color: #FFF0F5;;
+  color: gray;
+  text-align: center;
+  font-family: 'Great Vibes', cursive;
+  font-size: 50px;
+}
+
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 body { background:rgb(30,30,40); }
