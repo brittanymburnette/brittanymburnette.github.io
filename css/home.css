@@ -126,7 +126,7 @@ hr:after {
     padding: 0;
     background: url("portrait4.png") no-repeat top center;
     content: "";
-    height: 0px; /* height of the ornament */
+    /* height of the ornament */
     position: relative;
     top: -9px; /* half the height of the ornament */
 }
