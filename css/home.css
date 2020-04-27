@@ -12,7 +12,7 @@
 }
 
 .header {
-  background-color: darksalmon;
+  background-color: lightsalmon;
   text-align: center;
   grid-column: 1/3;
   grid-row: 1//2;
