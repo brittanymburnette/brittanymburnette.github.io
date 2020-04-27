@@ -131,3 +131,7 @@ hr:after {
 .wrapper-item photo {
  position: relative;
 }
+
+p.multiple {
+  color: white;
+}
