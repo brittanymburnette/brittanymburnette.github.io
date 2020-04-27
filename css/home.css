@@ -69,7 +69,6 @@ h1 {
 
 img { 
   background-color: darksalmon;
-  border: 10px solid darksalmon;
 }
 
 .center {
@@ -121,7 +120,7 @@ hr {
     display: flex;
     height: 1px;
     border-top: 3px solid black;
-    margin-top: -4em;
+    margin-top: -14em;
     margin: 0;
     padding: 0;
     background: url("portrait4.png") no-repeat top center;
