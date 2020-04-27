@@ -111,7 +111,7 @@ ul {
   font-family: 'Raleway', sans-serif;
 }
 
-hr {
+hr:after {
     display: block;
     display: flex;
     height: 1px;
