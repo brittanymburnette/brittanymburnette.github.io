@@ -113,6 +113,7 @@ ul {
 
 hr {
     display: block;
+    display: flex;
     height: 1px;
     border: 0;
     border-top: 15px solid lightpink;
