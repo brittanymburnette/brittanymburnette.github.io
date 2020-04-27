@@ -119,7 +119,7 @@ ul {
 
 hr {
     display: flex;
-    height: 1px;
+    height: 12px;
     border-top: 3px solid black;
     margin-top: -1em;
     margin: 0;
