@@ -1,5 +1,5 @@
 .wrapper {
-  border: 5px solid #FFF0F5;
+  border: 5px solid darksalmon;
   grid-gap: none;
   background-color: darksalmon;
   max-width: 960px;
@@ -44,7 +44,7 @@ nav {
 }
 
 nav ul {
-  background-color: #FFF0F5;
+  background-color: darksalmon;
   padding-left: 0;
   list-style: none;
 }
@@ -57,15 +57,15 @@ nav li {
 
 h1 {
   background-color: #FFF0F5;;
-  color: gray;
+  color: white;
   text-align: center;
   font-family: 'Great Vibes', cursive;
   font-size: 50px;
 }
 
 img { 
-  background-color: #FFF0F5;
-  border: 10px solid #FFF0F5;
+  background-color: darksalmon;
+  border: 10px solid darksalmon;
 }
 
 .center {
