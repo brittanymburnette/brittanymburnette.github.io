@@ -132,6 +132,7 @@ hr:after {
     position: relative;
     top: -9px; /* half the height of the ornament */
 }
+}
 
 .wrapper-item photo {
  position: relative;
