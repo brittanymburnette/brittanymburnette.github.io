@@ -119,7 +119,7 @@ ul {
 hr {
     display: flex;
     height: 1px;
-    border-top: 3px solid black;
+    border-top: 5px solid black;
     margin-top: -14em;
     margin: 0;
     padding: 0;
