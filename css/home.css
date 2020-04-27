@@ -120,7 +120,6 @@ hr {
     display: flex;
     height: 1px;
     border-top: 5px solid black;
-    margin-top: -20em;
     margin: 0;
     padding: 0;
     background: url("portrait4.png") no-repeat top center;
