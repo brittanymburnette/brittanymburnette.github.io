@@ -119,9 +119,9 @@ ul {
 
 hr {
     display: flex;
-    height: 12px;
+    height: 1px;
     border-top: 3px solid black;
-    margin-top: -1em;
+    margin-top: -12em;
     margin: 0;
     padding: 0;
     background: url("portrait4.png") no-repeat top center;
