@@ -116,13 +116,21 @@ ul {
   color: white;
 }
 
-hr {
+hr:after {
+    display: block;
     display: flex;
     height: 1px;
-    border-top: 5px solid black;
+    border: 0;
+    border-top: 3px solid black;
     margin-top: -1em;
+    margin: 0;
     padding: 0;
     background: url("portrait4.png") no-repeat top center;
+    content: "";
+    height: 18px; /* height of the ornament */
+    position: relative;
+    top: -9px; /* half the height of the ornament */
+    color: black;
 }
 
 
