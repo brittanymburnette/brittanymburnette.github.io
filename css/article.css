@@ -3,27 +3,27 @@
 }*/
 
 .wrapper {
-  border: 5px solid #FFF0F5;
+  border: 5px solid darksalmon;
   display: grid;
   grid-template-columns: auto auto auto;
   grid-gap: 10px;
-  background-color: #FFF0F5;
+  background-color: darksalmon;
   color: gray;
   margin: auto;
   max-width: 960px;
 }
   
 .box {
-  background-color: #FFF0F5;
-  color: #fff;
+  background-color: darksalmon;
+  color: white;
   border-radius: 5px;
   padding: 20px;
   font-size: 150%;
 }
 
  h1 {
-  background-color: #FFF0F5;
-  color: gray;
+  background-color: darksalmon;
+  color: white;
   text-align: center;
   font-family: 'Great Vibes', cursive;
   font-size: 50px;
@@ -31,7 +31,7 @@
 
 .header {
   grid-area: header;
-  background-color: #FFF0F5;
+  background-color: darksalmon;
   padding: 30px;
   text-align: center;
 }
@@ -45,7 +45,7 @@ nav {
 }
 
 nav ul {
-  background-color: #FFF0F5;
+  background-color: darksalmon;
   padding-left: 0;
   list-style: none;
 }
