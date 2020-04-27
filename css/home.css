@@ -117,22 +117,15 @@ ul {
   color: white;
 }
 
-hr:after {
-    display: block;
-    display: flex;
-    height: 1px;
-    border: 0;
-    border-top: 3px solid black;
-    margin-top: -1em;
-    margin: 0;
-    padding: 0;
-    background: url("portrait4.png") no-repeat top center;
+hr:after { 
+    background: url('brittcontact.png') no-repeat top center;
     content: "";
+    display: block;
     height: 18px; /* height of the ornament */
     position: relative;
     top: -9px; /* half the height of the ornament */
+    border: 0;
     color: black;
-}
 }
 
 .wrapper-item photo {
