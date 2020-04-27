@@ -119,6 +119,8 @@ ul {
 
 hr:after {
     display: block;
+    display: flex;
+    height: 1px;
     border: 0;
     border-top: 3px solid black;
     margin-top: -1em;
