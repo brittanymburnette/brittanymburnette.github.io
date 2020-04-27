@@ -116,7 +116,7 @@ ul {
   color: white;
 }
 
-hr:after {
+hr {
     display: block;
     display: flex;
     height: 1px;
