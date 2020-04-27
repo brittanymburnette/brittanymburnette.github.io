@@ -98,12 +98,13 @@ ul {
 }
 
 #skills {
-  background-color: lightgrey;
+  background-color: darksalmon;
   width: 300px;
-  border: 15px solid lightpink;
+  border: 5px solid white;
   padding: 50px;
   margin: 20px;
   font-family: 'Raleway', sans-serif;
+  color: white;
 }
 
 #awards {
