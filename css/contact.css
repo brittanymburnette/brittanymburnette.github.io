@@ -20,13 +20,13 @@
    grid-template-areas:
                "header header  header"
                "sidebar content content";
-   background-color: darksalmon;
+   background-color: #fff;
    color: #444;
    max-width: 960px;
 }
 
 .box {
-  background-color: #444;
+  background-color: darksalmon;
   color: #fff;
   border-radius: 5px;
   padding: 20px;
