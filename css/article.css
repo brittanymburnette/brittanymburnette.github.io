@@ -77,6 +77,6 @@ a:link {
 }
 
 .box a {
-  border-color: black;
+ border: 5px solid black;
 }
 
