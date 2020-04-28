@@ -76,3 +76,7 @@ a:link {
   text-decoration: none;
 }
 
+.box a {
+  border-color: black;
+}
+
