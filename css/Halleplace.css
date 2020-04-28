@@ -61,7 +61,8 @@ nav li {
 }
 
 a:link {
-  text
+  text-decoration: none;
+}
 
 h1 {
   background-color: darksalmon;
