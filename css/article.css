@@ -76,7 +76,7 @@ a:link {
   text-decoration: none;
 }
 
-.box a {
+.wrapper .box a {
  border: 5px solid black;
 }
 
