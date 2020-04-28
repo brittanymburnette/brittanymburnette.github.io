@@ -71,7 +71,7 @@ a:link {
 .line {
   width: 53px;
   height: 1px;
-  border-top: 5px solid lightgrey;
+  border-top: 3px solid black;
   margin: 3px;
   display:inline-block;
 }
