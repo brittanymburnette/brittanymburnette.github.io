@@ -70,17 +70,21 @@ input[type=submit]:hover {
   grid-column: 1/3;
   grid-row: 2/3;
 }
+
+a:link {
+  color: white;
+}
   
 a:active {
-  color: #FFF0F5;
+  color: whitesmoke;
   }
 
 a:visited {
-  color: rosybrown;
+  color: white;
   }
 
 a:hover {
-  color: silver;
+  color: lightsalmon;
   }
 
 nav {
