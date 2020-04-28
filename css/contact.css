@@ -1,131 +1,35 @@
-* {
-  box-sizing: border-box;
-}
+.sidebar {
+        grid-area: sidebar;
+    }
 
-/* Style inputs */
-input[type=text], select, textarea {
-  width: 100%;
-  padding: 12px;
-  border: 1px solid #ccc;
-  margin-top: 6px;
-  margin-bottom: 16px;
-  resize: vertical;
-}
+    .content {
+        grid-area: content;
+    }
 
-input[type=submit] {
-  background-color: whitesmoke;
-  color: black;
-  padding: 12px 20px;
-  border: none;
-  cursor: pointer;
-}
+    .header {
+        grid-area: header;
+    }
 
-input[type=submit]:hover {
-  background-color: lightsalmon;
-}
 
-/* Style the container/contact section */
-.wrapper {
+    .wrapper {
+        display: grid;
+    grid-gap: 10px;
+        grid-template-columns: 120px  120px  120px;
+        grid-template-areas:
+               "....... header  header"
+                             "sidebar content content";
+        background-color: #fff;
+        color: #444;
+      max-width: 960px;
+    }
+.box {
+  background-color: #444;
+  color: #fff;
   border-radius: 5px;
-  background-color: darksalmon;
-  padding: 10px;
-  max-width: 960px;
-}
-
-/* Create two columns that float next to eachother */
-.column {
-  float: left;
-  width: 50%;
-  margin-top: 6px;
   padding: 20px;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column, input[type=submit] {
-    width: 100%;
-    margin-top: 0;
-  }
-}
-
-.wrapper-item {
-  background-color: darksalmon;
+  font-size: 150%;
 }
 
 .header {
-  background-color: darksalmon;
-  text-align: center;
-  grid-column: 1/3;
-  grid-row: 1//2;
-}
-
-.nav {
-  grid-column: 1/3;
-  grid-row: 2/3;
-}
-
-a:link {
-  color: white;
-}
-  
-a:active {
-  color: whitesmoke;
-  }
-
-a:visited {
-  color: white;
-  }
-
-a:hover {
-  color: lightsalmon;
-  }
-
-nav {
-  top: 0;
-  left: 0;
-  font-family: 'Raleway', sans-serif;
-  width: 100%;
-  padding: 0.25em 0;
-}
-
-nav ul {
-  background-color: darksalmon;
-  padding-left: 0;
-  list-style: none;
-}
-
-nav li {
-  display: inline;
-  margin-right: 20px;
-  text-align: center;
-}
-
-h1 {
-  background-color: darksalmon;
-  color: gray;
-  text-align: center;
-  font-family: 'Great Vibes', cursive;
-  font-size: 50px;
-}
-
-.center {
-  text-align: center;
-}
-
-h2 {
-  color: white;
-  text-align: center;
-  font-family: 'Great Vibes', cursive;
-  font-size: 50px;
-}
-
-.footer {
-  text-align: center;
+  background-color: #999;
 }
