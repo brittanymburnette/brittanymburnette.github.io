@@ -34,3 +34,24 @@
 .header {
   background-color: #999;
 }
+
+nav {
+  top: 0;
+  left: 0;
+  font-family: 'Raleway', sans-serif;
+  width: 100%;
+  padding: 0.25em 0;
+}
+
+nav ul {
+  background-color: darksalmon;
+  padding-left: 0;
+  list-style: none;
+}
+
+nav li {
+  display: inline;
+  margin-right: 20px;
+  text-align: center;
+}
+
