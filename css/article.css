@@ -56,16 +56,20 @@ nav li {
   text-align: center;
 }
 
+a:link: {
+  color: white;
+}
+
 a:active {
-  color: #FFF0F5;
+  color: whitesmoke;
   }
 
 a:visited {
-  color: rosybrown;
+  color: white;
   }
 
 a:hover {
-  color: white;
+  color: lightsalmon;
   }
 
 a:link {
