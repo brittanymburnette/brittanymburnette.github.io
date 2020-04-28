@@ -20,7 +20,7 @@
    grid-template-areas:
                "header header  header"
                "sidebar content content";
-   background-color: #fff;
+   background-color: whitesmoke;
    color: #444;
    max-width: 960px;
 }
