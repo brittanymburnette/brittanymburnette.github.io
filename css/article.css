@@ -75,3 +75,7 @@ a:hover {
 a:link {
   text-decoration: none;
 }
+
+h5 {
+  font-weight: 100;
+}
