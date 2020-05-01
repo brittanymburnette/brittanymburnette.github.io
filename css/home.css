@@ -24,11 +24,11 @@
 }
 
 a:link {
-  color: black;
+  color: white;
 }
   
 a:active {
-  color: white;
+  color: black;
   }
 
 a:visited {
