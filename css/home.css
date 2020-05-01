@@ -28,11 +28,11 @@ a:link {
 }
   
 a:active {
-  color: whitesmoke;
+  color: black;
   }
 
 a:visited {
-  color: black;
+  color: white;
   }
 
 a:hover {
