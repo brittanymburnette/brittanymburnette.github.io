@@ -37,6 +37,7 @@ body {
   grid-area: header;
   background-color: darksalmon;
   text-align: center;
+  padding: 30px;
 }
 
 nav {
