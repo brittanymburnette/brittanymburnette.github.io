@@ -2,6 +2,7 @@
   border: 5px solid darksalmon;
   grid-gap: none;
   background-color: darksalmon;
+  max-width: 1140px;
   margin: auto; 
   display: grid;
 }
