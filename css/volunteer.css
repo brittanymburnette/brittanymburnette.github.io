@@ -1,3 +1,7 @@
+body {
+  background-color: black;
+}
+
 .wrapper {
   border: 5px solid darksalmon;
   display: grid;
