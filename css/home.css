@@ -1,3 +1,7 @@
+body {
+  background-color: whitesmoke;
+}
+
 .wrapper {
   border: 5px solid darksalmon;
   grid-gap: none;
