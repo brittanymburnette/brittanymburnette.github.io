@@ -2,6 +2,10 @@
   max-width: 960px;
 }*/
 
+body {
+  background-color: black;
+}
+
 .wrapper {
   border: 5px solid darksalmon;
   display: grid;
@@ -30,7 +34,6 @@
 }
 
 .header {
-  grid-area: header;
   background-color: darksalmon;
   text-align: center;
   padding: 30px;
