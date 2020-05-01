@@ -56,6 +56,10 @@ nav li {
   text-align: center;
 }
 
+a:link: {
+  color: whitesmoke;
+}
+
 a:active {
   color: black;
   }
@@ -70,7 +74,6 @@ a:hover {
 
 a:link {
   text-decoration: none;
-  color: whitesmoke;
 }
 
 h5 {
