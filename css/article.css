@@ -12,7 +12,7 @@ body {
   grid-template-columns: auto auto auto;
   grid-gap: 10px;
   background-color: darksalmon;
-  color: white;
+  color: black;
   margin: auto;
   max-width: 960px;
 }
@@ -73,7 +73,7 @@ a:active {
   }
 
 a:visited {
-  color: black;
+  color: white;
   }
 
 a:hover {
