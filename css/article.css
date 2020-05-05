@@ -89,6 +89,6 @@ h5 {
   font-style: oblique;
 }
 
-div:link {
+:link {
   color: black;
 }
