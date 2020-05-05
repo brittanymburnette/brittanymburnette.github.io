@@ -4,7 +4,7 @@ body {
 
 .sidebar {
    grid-area: sidebar;
-   background-color: darksalmon;
+   background-color: whitesmoke;
    height: 100%;
 }
 
@@ -65,7 +65,7 @@ nav li {
 }
 
 .box sidebar {
-   background-color: darksalmon;
+   background-color: whitesmoke;
    height: 100%;
 }
 
