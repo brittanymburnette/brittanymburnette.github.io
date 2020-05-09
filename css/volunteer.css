@@ -8,11 +8,12 @@ body {
   grid-gap: none;
   background-color: darksalmon;
   max-width: 960px;
-  margin: auto; 
+  margin: auto;
+  color: white;
 }
 
 .wrapper-item {
-  background -color: darksalmon;
+  background-color: darksalmon;
   max-width: 960px;
 }
 
